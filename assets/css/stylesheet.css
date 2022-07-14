@@ -1,0 +1,48 @@
+.container {
+    display: block;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-third {
+    width: 33.3%;
+}
+
+.col-half {
+    width: 50%;
+}
+
+.col-quarter {
+    width: 25%;
+}
+
+.col-three-quarters {
+    width: 75%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+body {
+    text-align: center;
+}
+
+nav li {
+    list-style-type: none;
+    position: sticky;
+}
+
+@media screen and (max-width: 600px) {
+
+    .col-third,
+    .col-quarter,
+    .col-half,
+    .col-three-quarters {
+        width: 100%;
+    }
+}
