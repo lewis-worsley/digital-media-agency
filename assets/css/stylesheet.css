@@ -35,6 +35,7 @@
 body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
+    color: #3a3a3a;
 }
 
 p {
@@ -51,17 +52,6 @@ h1 {
     color: white;
     text-shadow: 2px 2px 2px #000000;
 }
-
-.what-we-do h2 {
-    text-transform: uppercase;
-    padding: 20px 50px;
-    margin: 20px;
-    border: 4px solid #531c44;
-    border-radius: 20px;
-    letter-spacing: 2px;
-    text-align: center;
-}
-
 
 /* headings and logo */
 
@@ -80,16 +70,6 @@ h1 {
     padding-top: 50p;
     position: static;
 }
-
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  .sticky + .content {
-    padding-top: 60px;
-  }
 
 #menu li {
     float: right;
@@ -139,13 +119,26 @@ h1 {
 
 }
 
+/* WHAT WE DO section */
 
+.what-we-do h2 {
+    text-transform: uppercase;
+    padding: 20px 50px;
+    margin: 20px;
+    border: 4px solid #531c44;
+    border-radius: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.what-we-do button {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+}
 
 /* page sections */
-
-.what-we-do {
-    background-color: gold;
-}
 
 .client {
     background-color: blue;
@@ -159,6 +152,8 @@ h1 {
     background-color: aqua;
 }
 
+
+/* Responsive Design */
 
 @media screen and (max-width: 600px) {
 
