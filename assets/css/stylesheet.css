@@ -32,43 +32,69 @@
     width: 75%;
 }
 
-.full-width {
-    width: 100%;
-}
-
 body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
 
+p {
+    padding: 10px 25%;
+    font-size: 16px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: 'Proza Libre', sans-serif;
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.what-we-do h2 {
+    text-transform: uppercase;
+    padding: 20px 50px;
+    margin: 20px;
+    border: 4px solid #531c44;
+    border-radius: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
 /* headings and logo */
 
-#logo {
-    float: left;
-    width: 10%;
-    height: auto;
-    padding-left: 100px;
-    padding-top: 20px;
+#hero-outer {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
 }
 
 #header {
     background-image: linear-gradient(to right, #531c44, #962841, #e05b60);
+    background-color: #962841;
     height: 100px;
+    padding-top: 50p;
+    position: static;
 }
 
-#menu {
-    margin-right: 20px;
-}
-
-#menu, #logo {
-    line-height: 100px;
-
-}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
 
 #menu li {
     float: right;
+    margin-left: 100px;
     list-style-type: none;
-    margin-right: 60px;
     text-transform: uppercase;
     font-family: 'Proza Libre', sans-serif;
     font-weight: 700;
@@ -103,8 +129,6 @@ body {
     font-size: 130%;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: "Proza Libre", sans-serif;
-    font-weight: 700;
 
     width: 100%;
     height: 400px;
@@ -115,22 +139,11 @@ body {
 
 }
 
-h1 {
-    color: white;
-    text-shadow: 2px 2px 2px #000000;
-}
 
-p {
-    color: white;
-}
-
-.row {
-    text-align: center;
-}
 
 /* page sections */
 
-.services {
+.what-we-do {
     background-color: gold;
 }
 
@@ -152,7 +165,15 @@ p {
     .col-third,
     .col-quarter,
     .col-half,
-    .col-three-quarters {
+    .col-three-quarters,
+    p {
         width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    p {
+        padding: 10px 10%;
     }
 }
