@@ -49,11 +49,11 @@ body {
     height: auto;
     padding-left: 100px;
     padding-top: 20px;
-    background-color: black;
 }
 
-header {
-    background-color: beige;
+#header {
+    background-image: linear-gradient(to right, #531c44, #962841, #e05b60);
+    height: 100px;
 }
 
 #menu {
