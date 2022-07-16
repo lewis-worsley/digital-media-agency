@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Proza+Libre:wght@400;700&display=swap');
+
 .container {
     display: block;
     width: 100%;
@@ -30,12 +32,70 @@
 
 body {
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
-nav li {
-    list-style-type: none;
-    position: sticky;
+/* headings and logo */
+
+#logo {
+    float: left;
+    width: 10%;
+    height: auto;
+    padding-left: 100px;
+    padding-top: 20px;
+    background-color: black;
 }
+
+header {
+    background-color: beige;
+}
+
+#menu {
+    margin-right: 20px;
+}
+
+#menu, #logo {
+    line-height: 100px;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 60px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid blue;
+}
+
+.active {
+    border-bottom: 1px solid blue;
+}
+
+/* page sections */
+
+.services {
+    background-color: gold;
+}
+
+.client {
+    background-color: blue;
+}
+
+.contact {
+    background-color: beige;
+}
+
+.footer {
+    background-color: aqua;
+}
+
 
 @media screen and (max-width: 600px) {
 
