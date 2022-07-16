@@ -44,7 +44,6 @@ p {
 }
 
 h1, h2, h3 {
-    text-align: center;
     font-family: 'Proza Libre', sans-serif;
 }
 
@@ -68,7 +67,6 @@ h1 {
     background-color: #962841;
     height: 100px;
     padding-top: 50p;
-    position: static;
 }
 
 #menu li {
@@ -107,8 +105,6 @@ h1 {
 
 #cover-text {
     font-size: 130%;
-    text-transform: uppercase;
-    letter-spacing: 2px;
 
     width: 100%;
     height: 400px;
@@ -127,15 +123,12 @@ h1 {
     margin: 20px;
     border: 4px solid #531c44;
     border-radius: 20px;
-    letter-spacing: 2px;
-    text-align: center;
 }
 
 .what-we-do button {
     padding: 15px;
     border-radius: 10px;
     margin: 20px;
-    text-align: center;
 }
 
 /* page sections */
