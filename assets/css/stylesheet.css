@@ -173,6 +173,15 @@ hr {
     width: 60px;
   }
 
+/* FREE CONSULATION section */
+
+form {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 /* page sections */
 
 .services {
