@@ -111,7 +111,7 @@ h2 {
 
 #menu li {
     float: right;
-    line-height: 40px;
+    line-height: 55px;
     list-style-type: none;
     text-transform: uppercase;
     font-family: 'Proza Libre', sans-serif;
@@ -124,12 +124,16 @@ h2 {
     color: inherit;
 }
 
-#menu a:hover {
-    border-bottom: 1px solid blue;
+.free-consultation {
+    padding: 15px 30px;
+    font-size: 1rem;
+    background-color: white;
+    color: #3a3a3a;
 }
 
-.active {
-    border-bottom: 1px solid blue;
+.free-consultation:hover {
+    background-color: #3a3a3a;
+    color: white;
 }
 
 /* hero image section */
