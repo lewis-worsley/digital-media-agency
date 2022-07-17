@@ -32,6 +32,10 @@
     width: 75%;
 }
 
+.col-fifth {
+    width: 20%;
+}
+
 body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
@@ -43,14 +47,36 @@ p {
     font-size: 16px;
 }
 
+.p2 {
+    font-size: 0.8rem;
+}
+
 h1, h2, h3 {
     font-family: 'Proza Libre', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 30px 0 10px;
 }
 
 h1 {
     color: white;
     text-shadow: 2px 2px 2px #000000;
 }
+
+h2 {
+    text-align:center;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  button {
+    font-family: 'Proza Libre', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 0.8rem;
+  }
 
 /* headings and logo */
 
@@ -118,7 +144,6 @@ h1 {
 /* WHAT WE DO section */
 
 .what-we-do h2 {
-    text-transform: uppercase;
     padding: 20px 50px;
     margin: 20px;
     border: 4px solid #531c44;
@@ -126,15 +151,21 @@ h1 {
 }
 
 .what-we-do button {
-    padding: 15px;
-    border-radius: 10px;
-    margin: 20px;
+    padding: 15px 30px;
+    margin: 30px;
+}
+
+/* Services aka RAISE YOUR GAME section */
+
+.services div {
+    padding: 20px auto;
+    margin: 40px auto;
 }
 
 /* page sections */
 
-.client {
-    background-color: blue;
+.services {
+    background-color:blanchedalmond;
 }
 
 .contact {
@@ -163,5 +194,23 @@ h1 {
 
     p {
         padding: 10px 10%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    .col-third,
+    .col-quarter,
+    .col-half,
+    .col-three-quarters,
+    p {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    p {
+        padding: 10px 20%;
     }
 }
