@@ -92,16 +92,20 @@ h2 {
     background-image: linear-gradient(to right, #531c44, #962841, #e05b60);
     background-color: #962841;
     height: 100px;
-    padding-top: 50p;
+    padding-top: 60px;
+    padding-right: 20%;
+    padding-left: 20%;
+    color: white;
 }
 
 #menu li {
     float: right;
-    margin-left: 100px;
+    line-height: 40px;
     list-style-type: none;
     text-transform: uppercase;
     font-family: 'Proza Libre', sans-serif;
     font-weight: 700;
+    padding-right: 100px;
 }
 
 #menu a {
@@ -152,7 +156,17 @@ h2 {
 
 .what-we-do button {
     padding: 15px 30px;
-    margin: 30px;
+    margin: 50px 10px;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.work-with-us {
+    background-image: linear-gradient(to top right, #531c44, #962841, #e05b60);
+}
+
+.find-out-more {
+    background-image: linear-gradient(to top right, #07081A, #003551);
 }
 
 /* Services aka RAISE YOUR GAME section */
@@ -184,31 +198,21 @@ hr {
     background-color: #3a3a3a;
 }
 
-/* social media marketing div */
-
 .smm-button {
     background-color: #e05b60;
 }
-
-/* social media marketing div */
 
 .seo-button {
     background-color: #962841;
 }
 
-/* social media marketing div */
-
 .retargeting-button {
     background-color: #531c44;
 }
 
-/* social media marketing div */
-
 .tv-button {
     background-color: #07081a;
 }
-
-/* social media marketing div */
 
 .web-button {
     background-color: #003551;
