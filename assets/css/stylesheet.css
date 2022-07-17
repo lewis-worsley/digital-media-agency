@@ -40,15 +40,16 @@ body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     color: #3a3a3a;
+    font-size: 16px;
 }
 
 p {
     padding: 10px 25%;
-    font-size: 16px;
+    
 }
 
 .p2 {
-    font-size: 0.8rem;
+    font-size: 90%;
 }
 
 h1, h2, h3 {
@@ -75,7 +76,6 @@ h2 {
     letter-spacing: 2px;
     border-radius: 10px;
     font-weight: 700;
-    font-size: 0.8rem;
   }
 
 /* headings and logo */
@@ -172,6 +172,47 @@ hr {
     border-color: #531c44;
     width: 60px;
   }
+
+.services button {
+    padding: 10px 25px;
+    margin: 25px;
+    font-size: 0.8rem;
+    color: white;
+}
+
+.services button:hover {
+    background-color: #3a3a3a;
+}
+
+/* social media marketing div */
+
+.smm-button {
+    background-color: #e05b60;
+}
+
+/* social media marketing div */
+
+.seo-button {
+    background-color: #962841;
+}
+
+/* social media marketing div */
+
+.retargeting-button {
+    background-color: #531c44;
+}
+
+/* social media marketing div */
+
+.tv-button {
+    background-color: #07081a;
+}
+
+/* social media marketing div */
+
+.web-button {
+    background-color: #003551;
+}
 
 /* FREE CONSULATION section */
 
