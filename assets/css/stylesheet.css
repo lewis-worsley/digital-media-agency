@@ -81,6 +81,11 @@ h2 {
     color: white;
   }
 
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
 .grad-red {
     background-image: linear-gradient(to top right, #531c44, #962841, #e05b60);
 }
@@ -271,8 +276,12 @@ form {
     background-color:blanchedalmond;
 }
 
-.footer {
-    background-color: aqua;
+/* FOOTER */
+
+footer {
+    background-color: #212121;
+    height: 400px;
+    color: white;
 }
 
 
