@@ -55,7 +55,7 @@ h1, h2, h3 {
     font-family: 'Proza Libre', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    padding: 30px 0 10px;
+    padding: 50px 0 10px;
 }
 
 h1 {
@@ -180,16 +180,27 @@ form {
     margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px 25%;
+  }
+
+  .form-section {
+    background-image: linear-gradient(to top right, #531c44, #962841, #e05b60);
+    height: auto;
+    color: white;
+  }
+
+  input {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+    border-bottom: 4px solid white;
   }
 
 /* page sections */
 
 .services {
     background-color:blanchedalmond;
-}
-
-.contact {
-    background-color:darksalmon;
 }
 
 .footer {
