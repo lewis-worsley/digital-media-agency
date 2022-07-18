@@ -68,8 +68,6 @@ h1 {
 
 h2 {
     text-align:center;
-    width: 100%;
-    margin: 0 auto;
   }
 
   button {
@@ -175,19 +173,20 @@ h2 {
 }
 
 #cover-text button {
-    padding: 15px 30px;
+    padding: 20px 40px;
     margin: 50px;
     font-size: 1.4rem;
 
 }
 
-/* WHAT WE DO section */
+/* WHAT WE DO (aka Digital Media Agency) section */
 
-.what-we-do h2 {
-    padding: 20px 50px;
-    margin: 20px;
+.burgundy-h2 {
+    color: #962841;
     border: 4px solid #531c44;
     border-radius: 20px;
+    padding: 20px 50px;
+    margin: 20px;
 }
 
 .what-we-do button {
@@ -198,6 +197,14 @@ h2 {
 }
 
 /* Services aka RAISE YOUR GAME section */
+
+.purple-h2 {
+    color: #531c44;
+   
+    border-radius: 20px;
+    padding: 20px 50px;
+    margin: 20px;
+}
 
 .services div {
     padding: 30px auto;
@@ -280,10 +287,24 @@ form {
 
 footer {
     background-color: #212121;
-    height: 400px;
+    height: 600px;
     color: white;
 }
 
+.rise-logo-h {
+    background: url(/assets/images/Rise\ logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 200px;
+    width: auto;
+    margin: 100px 10px 50px;
+}
+
+i {
+    font-size: 300%;
+    padding: 20px;
+}
 
 /* Responsive Design */
 
