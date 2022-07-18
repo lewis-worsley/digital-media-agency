@@ -36,6 +36,10 @@
     width: 20%;
 }
 
+.full-width {
+    width: 100%;
+}
+
 body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
@@ -52,7 +56,7 @@ p {
     font-size: 90%;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: 'Proza Libre', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -298,12 +302,13 @@ footer {
     background-size: contain;
     height: 200px;
     width: auto;
-    margin: 100px 10px 50px;
+    margin: 100px 10px 30px;
 }
 
 i {
     font-size: 300%;
-    padding: 20px;
+    padding: 25px;
+    text-align: center;
 }
 
 /* Responsive Design */
