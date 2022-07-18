@@ -205,7 +205,7 @@ h2 {
 
 
 .quote {
-    height: 350px;
+    height: 450px;
     background-color: #212121;
     
 }
@@ -232,13 +232,21 @@ h2 {
     background-repeat: no-repeat;
     background-size: contain;
     opacity: 0.1;
-    margin: 20px;
-    height: 300px;
+    margin: 50px;
+    height: 350px;
     width: auto;
     
-
     position: absolute;
+}
 
+.founder {
+    background: url(/assets/images/Founder.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 430px;
+    margin-left: 100%;
+    margin-top: 20px;
+    width: 250px;
 
 }
 
