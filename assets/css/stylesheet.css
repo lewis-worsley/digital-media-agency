@@ -200,6 +200,48 @@ h2 {
     color: white;
 }
 
+/* QUOTE section */
+
+
+
+.quote {
+    height: 350px;
+    background-color: #212121;
+    
+}
+
+.quote p {
+    color: white;
+    text-align: left;
+
+}
+
+.quotation-marks {
+    font-size: 1000%;
+    font-family: 'Proza Libre', sans-serif;
+    margin-bottom: -120px;
+}
+
+.founder-quote {
+    font-size: 120%;
+    font-style: italic;
+}
+
+.rise-logo-quote {
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.1;
+    margin: 20px;
+    height: 300px;
+    width: auto;
+    
+
+    position: absolute;
+
+
+}
+
 /* Services aka RAISE YOUR GAME section */
 
 .purple-h2 {
@@ -280,12 +322,6 @@ form {
     color: white;
     border-bottom: 4px solid white;
   }
-
-/* page sections */
-
-.services {
-    background-color:blanchedalmond;
-}
 
 /* FOOTER */
 
