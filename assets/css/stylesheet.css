@@ -407,32 +407,14 @@ i {
     .col-quarter,
     .col-half,
     .col-three-quarters,
-    p {
+ {
         width: 100%;
     }
-}
 
-@media screen and (max-width: 600px) {
+    .container, {
+        display: block;
+        height: 500px;
 
-    p {
-        padding: 10px 10%;
-    }
-}
 
-@media screen and (max-width: 900px) {
-
-    .col-third,
-    .col-quarter,
-    .col-half,
-    .col-three-quarters,
-    p {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width: 900px) {
-
-    p {
-        padding: 10px 20%;
     }
 }
