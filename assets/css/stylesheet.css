@@ -34,6 +34,10 @@
     width: 25%;
 }
 
+.col-quarter-navbar {
+    width: 25%;
+}
+
 .col-quarter-quote {
     width: 25%;
 }
@@ -120,14 +124,26 @@ a {
 
 /* headings and logo */
 
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+
+nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #header {
-    background-image: linear-gradient(to right, #531c44, #962841, #e05b60);
+    background-image: linear-gradient(to top right, #531c44, #962841, #e05b60);
     background-color: #962841;
-    height: 100px;
-    padding-top: 60px;
-    padding-right: 20%;
-    padding-left: 20%;
+    padding: 25px 0px;
     color: white;
+}
+
+li {
+    margin-left: 60px;
 }
 
 #menu li {
@@ -137,7 +153,6 @@ a {
     text-transform: uppercase;
     font-family: 'Proza Libre', sans-serif;
     font-weight: 700;
-    padding-right: 100px;
 }
 
 #menu a {
@@ -480,6 +495,12 @@ i {
         font-size: 0.80rem;
     }
 
+    .rise-logo-quote {
+        margin: 70px 150px;
+        height: 312px;
+
+    }
+
     /* code to remove founder image and changed .col-three-quarters to 100% width */
 
     .col-quarter-quote {
@@ -501,6 +522,8 @@ i {
             width: 100%;
         }
     }
+
+
 }
 
 
@@ -541,7 +564,17 @@ i {
         padding: 0;
         margin: 10px 15%;
     }
-  
+
+    li {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        padding: 0px 30px;
+    }
+
+    #logo {
+        width: 100%;
+    }
 
 }
 
@@ -551,17 +584,21 @@ i {
         width: 100%;
     }
 
-   
-
-    .col-third>div {
-        width: 100%;
-        clear: both;
-        padding: 0;
+    li {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        padding: 0px 20px;
+        
+        
     }
+
 
 }
 
 @media screen and (max-width: 690px) {
+
+
 
     #cover-text button {
         padding: 20px 40px;
@@ -592,6 +629,8 @@ i {
     .form-button {
         width: 200px;
     }
+
+  
 }
 
 @media screen and (max-width: 600px) {
@@ -612,6 +651,12 @@ i {
         padding: 10px 10%;
     }
 
-
+    li {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        
+        
+    }
 
 }
