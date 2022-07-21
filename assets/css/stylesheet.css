@@ -16,6 +16,12 @@
     flex-wrap: wrap;
 }
 
+.row-services-width {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 10%;
+}
+
 .col-third {
     width: 33.3%;
 }
@@ -223,7 +229,6 @@ h2 {
 
 
 .quote {
-    height: 450px;
     background-color: #212121;
     
 }
@@ -261,10 +266,10 @@ h2 {
     background: url(/assets/images/Founder.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 430px;
-    margin-left: 100%;
+    height: 445px;
+    margin-left: 80%;
     margin-top: 20px;
-    width: 250px;
+    width: 280px;
 
 }
 
@@ -275,7 +280,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-.services div {
+.row-services-width div {
     padding: 30px auto;
     margin: 50px auto;
     display: block;
@@ -292,14 +297,14 @@ hr {
     width: 60px;
   }
 
-.services button {
+.row-services-width button {
     padding: 10px 25px;
     margin: 25px;
     font-size: 0.8rem;
     color: white;
 }
 
-.services button:hover {
+.row-services-width button:hover {
     background-color: #3a3a3a;
 }
 
@@ -416,6 +421,16 @@ i {
 
 /* Responsive Design */
 
+@media screen and (max-width: 1500px) {
+
+    .founder {
+        margin-left: 50%;
+    }
+
+    .quote p {
+        padding: 10px 20%;
+    }
+
 @media screen and (max-width: 1200px) {
 
     .what-we-do p {
@@ -438,9 +453,44 @@ i {
         padding: 0;
     }
  
-    .services p {
+    .row-services-width p {
         padding: 10px 10%;
     }
+
+    .founder {
+        background: none
+    }
+
+    .quote p {
+        padding: 10px 20%;
+        text-align: center;
+    }
+
+    .col-quarter {
+        display: block;
+    }
+    
+    @media (max-width: 1200px) 
+    {
+        .col-quarter
+        {
+            display: none;
+        }
+    }
+
+    .col-three-quarters {
+        display: block;
+    }
+    
+    @media (max-width: 1200px) 
+    {
+        .col-three-quarters
+        {
+            width: 100%;
+        }
+    }
+    }
+
 
 }
 
@@ -465,16 +515,16 @@ i {
         padding: 0;
     }
 
-    .services div {
+    .row-services-width div {
         width: 100%;
         clear: both;
         margin: 20px auto;
         padding: 0;
     }
 
-    .services p {
+    .row-services-width p {
         clear: both;
-        padding: 0 10%;
+        padding: 10px 0;
     }
 
 }
@@ -489,6 +539,11 @@ i {
         clear: both;
         padding: 0;
         margin: 10px 10%;
+    }
+
+    .services p {
+        clear: both;
+        padding: 10px 10%;
     }
 
 }
