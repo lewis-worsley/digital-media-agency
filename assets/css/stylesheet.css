@@ -332,10 +332,9 @@ hr {
 
 form {
     margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-bottom: 2em;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px 5px;
   }
 
   .form-section {
@@ -351,7 +350,7 @@ form {
 
 
   input {
-    margin: 20px;
+    margin: 15px 20px;
     padding: 20px;
     background-color: rgba(0, 0, 0, 0.2);
     color: white;
@@ -366,7 +365,8 @@ form {
     font-family: 'Proza Libre', sans-serif;
     font-weight: 700;
     border-radius: 10px;
-    padding: 10px 30px;
+    border-bottom: none;
+    padding: 15px;
   }
 
   .website-form-input {
@@ -534,6 +534,31 @@ i {
 
 }
 
+@media screen and (max-width: 690px) {
+    form {
+        width: 100%;
+        clear: both;
+        padding: 0;
+    }
+
+    input {
+        margin: 10px;
+        width: 300px;
+    }
+
+    textarea {
+        margin: 10px;
+        max-width: 320px;
+    }
+
+    .website-form-input {
+        max-width: 300px;
+    }
+
+    .form-button {
+        width: 200px;
+    }
+}
 
 @media screen and (max-width: 600px) {
 
