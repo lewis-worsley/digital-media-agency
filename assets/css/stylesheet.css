@@ -446,7 +446,7 @@ i {
         padding: 0;
     }
 
-    .services div {
+    .row-services-width div {
         width: 50%;
         clear: both;
         margin: 20px auto;
@@ -504,7 +504,12 @@ i {
         padding: 0;
         margin: 10px 15%;
     }
-
+    
+    .row-services-width {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 15%;
+    }
 }
 
 @media screen and (max-width: 800px) {
