@@ -436,8 +436,9 @@ footer {
     color: white;
 }
 
-footer h4 {
+footer h2 {
     margin-bottom: 0px;
+    font-size: 1rem;
 }
 
 .rise-logo-h {
