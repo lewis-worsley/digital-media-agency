@@ -576,9 +576,7 @@ i {
     }
 
     li {
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0px 30px;
+        margin-left: 40px;
     }
 
 
@@ -672,5 +670,8 @@ i {
         margin-bottom: 25px;
     }
 
+    #logo {
+        background-size: 0%;
+    }
 
 }
