@@ -578,13 +578,9 @@ i {
     li {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 20px;
         padding: 0px 30px;
     }
 
-    #logo {
-        width: 100%;
-    }
 
 }
 
@@ -597,12 +593,12 @@ i {
     li {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 20px;
         padding: 0px 20px;
-        
-        
     }
 
+    .nav-display-none {
+        display: none;
+    }
 
 }
 
@@ -664,7 +660,6 @@ i {
     li {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 20px;
     }
 
     .burgundy-button {
@@ -676,5 +671,6 @@ i {
         margin-top: 20px;
         margin-bottom: 25px;
     }
+
 
 }
