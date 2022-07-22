@@ -146,8 +146,11 @@ li {
     margin-left: 60px;
 }
 
+#menu {
+    display: flex;
+}
+
 #menu li {
-    float: right;
     line-height: 55px;
     list-style-type: none;
     text-transform: uppercase;
