@@ -234,7 +234,8 @@ li {
     margin-bottom: 10px;
 }
 
-.blue-button, .burgundy-button {
+.blue-button,
+.burgundy-button {
     padding: 15px 30px;
     margin: 50px 2% 25px;
     font-size: 1rem;
@@ -502,7 +503,8 @@ i {
         text-align: center;
     }
 
-    .blue-button, .burgundy-button {
+    .blue-button,
+    .burgundy-button {
         margin: 40px 10px;
         font-size: 0.80rem;
     }
@@ -562,7 +564,8 @@ i {
         padding: 25px 15%;
     }
 
-    .blue-button, .burgundy-button {
+    .blue-button,
+    .burgundy-button {
         margin: 30px 2% 25x;
         font-size: 0.8rem;
         padding: 16px 24px;
@@ -588,14 +591,12 @@ i {
         width: 100%;
     }
 
-    li {
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0px 20px;
-    }
-
     .nav-display-none {
         display: none;
+    }
+
+    li {
+        margin-left: 0;
     }
 
 }
@@ -634,7 +635,7 @@ i {
         width: 200px;
     }
 
-  
+
 }
 
 @media screen and (max-width: 600px) {
@@ -655,10 +656,6 @@ i {
         padding: 10px 10%;
     }
 
-    li {
-        margin-left: auto;
-        margin-right: auto;
-    }
 
     .burgundy-button {
         margin-top: 20px;
@@ -672,6 +669,20 @@ i {
 
     #logo {
         background-size: 0%;
+    }
+
+}
+
+
+@media screen and (max-width: 500px) {
+
+    .free-consultation {
+        display: none;
+    }
+
+    nav {
+        margin-left: 0;
+        margin-right: 0;
     }
 
 }
