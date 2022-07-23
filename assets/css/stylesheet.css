@@ -108,11 +108,6 @@ button {
     color: white;
 }
 
-span {
-    text-decoration: none;
-    color: white;
-}
-
 a {
     color: white;
 }
@@ -452,6 +447,11 @@ textarea {
 footer {
     background-color: #212121;
     color: white;
+}
+
+.footer-links {
+    text-decoration: none;
+    color: #e05b60;
 }
 
 footer p {
