@@ -596,7 +596,9 @@ i {
         margin-left: 40px;
     }
 
-
+    img {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 800px) {
