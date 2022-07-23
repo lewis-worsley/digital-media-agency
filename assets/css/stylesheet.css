@@ -197,6 +197,10 @@ li {
 
 /* hero image section */
 
+h1 {
+    padding-top: 70px;
+}
+
 #hero-outer {
     height: auto;
     width: 100%;
@@ -213,6 +217,7 @@ li {
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 105px;
 }
 
 #cover-text {
@@ -238,7 +243,7 @@ li {
 
 #cover-text button {
     padding: 20px 40px;
-    margin: 50px;
+    margin: 50px 0 75px;
     font-size: 1.4rem;
 
 }
@@ -531,7 +536,7 @@ i {
 
     .blue-button,
     .burgundy-button {
-        margin: 40px 10px;
+        margin: 40px 10px 0;
         font-size: 0.80rem;
     }
 
@@ -592,7 +597,7 @@ i {
 
     .blue-button,
     .burgundy-button {
-        margin: 30px 2% 25x;
+        margin: 30px 2% 0;
         font-size: 0.8rem;
         padding: 16px 24px;
     }
@@ -641,7 +646,7 @@ i {
 
     #cover-text button {
         padding: 20px 40px;
-        margin: 32px 30px;
+        margin: 30px 30px 75px;
         font-size: 1rem;
     }
 
@@ -675,7 +680,7 @@ i {
 @media screen and (max-width: 600px) {
 
     #cover-text {
-        padding: 25px;
+        padding: 25px
     }
 
     .what-we-do p {
@@ -701,10 +706,6 @@ i {
         margin-bottom: 25px;
     }
 
-    #logo {
-        background-size: 0%;
-    }
-
 }
 
 
@@ -719,4 +720,7 @@ i {
         margin-right: 0;
     }
 
+    #hero-image {
+        padding-top: 103px;
+    }
 }
