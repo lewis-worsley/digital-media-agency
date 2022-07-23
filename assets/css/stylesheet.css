@@ -372,7 +372,7 @@ hr {
     border-color: #e05b60;
 }
 
-.smm-button {
+.smm-block button {
     background-color: #e05b60;
 }
 
@@ -382,7 +382,15 @@ hr {
     margin-bottom: 150px;
 }
 
-.seo-button {
+.seo-block h3 {
+    color: #962841;
+}
+
+.seo-block hr {
+    border-color: #962841;
+}
+
+.seo-block button {
     background-color: #962841;
 }
 
@@ -392,19 +400,43 @@ hr {
     margin-bottom: 150px;
 }
 
-.retargeting-button {
+.remarketing-block h3 {
+    color: #531c44;
+}
+
+.remarketing-block hr {
+    border-color: #531c44;
+}
+
+.remarketing-block button {
     background-color: #531c44;
 }
 
 /* TV Marketing */
 
-.tv-button {
+.tv-block h3 {
+    color: #07081a;
+}
+
+.tv-block hr {
+    border-color: #07081a;
+}
+
+.tv-block button {
     background-color: #07081a;
 }
 
 /* Web Design */
 
-.web-button {
+.web-block h3 {
+    color: #003551;
+}
+
+.web-block hr {
+    border-color: #003551;
+}
+
+.web-block button {
     background-color: #003551;
 }
 
