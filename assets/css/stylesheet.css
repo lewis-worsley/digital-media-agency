@@ -188,6 +188,11 @@ li {
     overflow: hidden;
 }
 
+#services,
+#free-consultation {
+    padding: 6.5rem 0;
+}
+
 /* hero image section */
 
 #hero-outer {
@@ -311,10 +316,6 @@ li {
 
 /* Services aka RAISE YOUR GAME section */
 
-#services {
-    padding: 6.5rem 0;
-}
-
 .purple-h2 {
     color: #531c44;
     margin-bottom: 10px;
@@ -372,7 +373,6 @@ hr {
 
 form {
     margin-top: 0.5em;
-    margin-bottom: 2em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -431,6 +431,8 @@ textarea {
     color: white;
     opacity: 0.4;
 }
+
+
 
 /* FOOTER */
 
@@ -596,7 +598,7 @@ i {
         margin-left: 40px;
     }
 
-    img {
+    .quote img {
         display: none;
     }
 }
