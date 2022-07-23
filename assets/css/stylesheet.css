@@ -23,7 +23,7 @@ html {
 .row-services-width {
     display: flex;
     flex-wrap: wrap;
-    margin: 0 10%;
+    margin: 50px 10% 0;
 }
 
 .col-third {
@@ -331,11 +331,11 @@ h1 {
     margin: 30px 0 20px;
 }
 
-.row-services-width div {
-    padding: 30px auto;
-    margin: 50px auto 0px;
-    display: block;
+.upper-row {
+    margin: 50px auto 100px;
 }
+
+
 
 hr {
     margin-top: 0.5em;
@@ -358,6 +358,20 @@ hr {
 .row-services-width button:hover {
     background-color: #3a3a3a;
 }
+
+
+.smm-block {
+    margin-bottom: 150px;
+}
+
+.seo-block {
+    margin-bottom: 150px;
+}
+
+.remarketing-block {
+    margin-bottom: 150px;
+}
+
 
 .smm-button {
     background-color: #e05b60;
@@ -498,15 +512,20 @@ i {
 
     .row-services-width div {
         width: 50%;
-        clear: both;
-        margin: 20px auto;
-        padding: 10px 0 20px;
     }
 
     .row-services-width p {
         padding: 10px 10% 20px;
     }
 
+    
+    .tv-block {
+        margin-bottom: 150px;
+    }
+
+    .web-block {
+        margin: 0 auto;
+    }
 }
 
 @media screen and (max-width: 1200px) {
@@ -517,7 +536,6 @@ i {
 
     .what-we-do p {
         width: 100%;
-        clear: both;
         padding: 0;
         margin: 10px 20%;
     }
@@ -579,15 +597,14 @@ i {
 
     .row-services-width div {
         width: 100%;
-        clear: both;
-        margin: 10px auto;
-        padding: 0;
     }
 
     .row-services-width p {
         padding: 10px 10% 20px;
     }
 
+
+    
 }
 
 /* 900px */
