@@ -311,6 +311,10 @@ li {
 
 /* Services aka RAISE YOUR GAME section */
 
+#services {
+    padding: 6.5rem 0;
+}
+
 .purple-h2 {
     color: #531c44;
     margin-bottom: 10px;
@@ -318,7 +322,7 @@ li {
 
 .row-services-width div {
     padding: 30px auto;
-    margin: 50px auto 25px;
+    margin: 50px auto 0px;
     display: block;
 }
 
