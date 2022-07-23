@@ -189,7 +189,6 @@ li {
 }
 
 
-
 /* hero image section */
 
 h1 {
@@ -359,39 +358,57 @@ hr {
     background-color: #3a3a3a;
 }
 
+/* Social Media Marketing */
 
 .smm-block {
     margin-bottom: 150px;
 }
 
-.seo-block {
-    margin-bottom: 150px;
+.smm-block h3 {
+    color: #e05b60;
 }
 
-.remarketing-block {
-    margin-bottom: 150px;
+.smm-block hr {
+    border-color: #e05b60;
 }
-
 
 .smm-button {
     background-color: #e05b60;
+}
+
+/* SEO Marketing */
+
+.seo-block {
+    margin-bottom: 150px;
 }
 
 .seo-button {
     background-color: #962841;
 }
 
+/* Remarketing Ads */
+
+.remarketing-block {
+    margin-bottom: 150px;
+}
+
 .retargeting-button {
     background-color: #531c44;
 }
+
+/* TV Marketing */
 
 .tv-button {
     background-color: #07081a;
 }
 
+/* Web Design */
+
 .web-button {
     background-color: #003551;
 }
+
+
 
 /* FREE CONSULATION section */
 
@@ -604,7 +621,7 @@ i {
     }
 
 
-    
+
 }
 
 /* 900px */
