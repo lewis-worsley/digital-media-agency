@@ -85,7 +85,6 @@ h4 {
     font-family: 'Proza Libre', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin: 30px auto;
 }
 
 h1 {
@@ -124,6 +123,12 @@ a {
 
 .grad-blue {
     background-image: linear-gradient(to top right, #07081A, #003551);
+}
+
+#services,
+#free-consultation,
+#about-us {
+    padding: 6.5rem 0;
 }
 
 /* headings and logo */
@@ -188,10 +193,7 @@ li {
     overflow: hidden;
 }
 
-#services,
-#free-consultation {
-    padding: 6.5rem 0;
-}
+
 
 /* hero image section */
 
@@ -243,6 +245,10 @@ li {
 
 /* WHAT WE DO (aka Digital Media Agency) section */
 
+#about-us h2 {
+    margin: 0;
+}
+
 .burgundy-h2 {
     color: #962841;
     margin-bottom: 10px;
@@ -251,7 +257,7 @@ li {
 .blue-button,
 .burgundy-button {
     padding: 15px 30px;
-    margin: 50px 2% 25px;
+    margin: 50px 2% 0;
     font-size: 1rem;
     color: white;
 
@@ -319,6 +325,10 @@ li {
 .purple-h2 {
     color: #531c44;
     margin-bottom: 10px;
+}
+
+#services h3 {
+    margin: 30px auto;
 }
 
 .row-services-width div {
