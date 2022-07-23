@@ -783,15 +783,15 @@ i {
         display: none;
     }
 
-}
-
-
-@media screen and (max-width: 500px) {
-
     nav {
         margin-left: 0;
         margin-right: 0;
     }
+
+}
+
+
+@media screen and (max-width: 500px) {
 
     #hero-image {
         padding-top: 103px;
