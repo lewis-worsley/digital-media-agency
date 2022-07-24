@@ -263,6 +263,12 @@ h1 {
 
 }
 
+.blue-button:hover,
+.burgundy-button:hover {
+    background-color: #3a3a3a;
+    color: white;
+}
+
 .blue-button {
     background-color: #003551;
 }
@@ -276,7 +282,7 @@ h1 {
 
 
 .quote {
-    background-color: #212121;
+    background-color: #3a3a3a;
 
 }
 
@@ -475,12 +481,19 @@ input {
 
 .form-button {
     background-color: white;
-    color: #212121;
+    color: #3a3a3a;
     font-family: 'Proza Libre', sans-serif;
     font-weight: 700;
+    font-size: inherit;
     border-radius: 10px;
     border-bottom: none;
     padding: 15px;
+    cursor: pointer;
+}
+
+.form-button:hover {
+    background-color: #3a3a3a;
+    color: white;
 }
 
 .website-form-input {
