@@ -123,7 +123,8 @@ a {
 
 #services,
 #free-consultation,
-#about-us {
+#about-us,
+footer {
     padding: 8rem 0;
 }
 
@@ -548,12 +549,12 @@ footer h2 {
     background-position: center;
     background-size: contain;
     height: 200px;
-    margin: 100px 10px 30px;
+    margin-bottom: 30px;
 }
 
 i {
     font-size: 300%;
-    padding: 25px;
+    padding: 25px 2% 0;
     text-align: center;
 }
 
@@ -614,7 +615,6 @@ i {
     }
 
     .quote p {
-        padding: 10px 20%;
         text-align: center;
     }
 
@@ -632,27 +632,15 @@ i {
 
     /* code to remove founder image and changed .col-three-quarters to 100% width */
 
+
     .col-quarter-quote {
-        display: block;
+        display: none;
     }
-
-    @media (max-width: 1200px) {
-        .col-quarter-quote {
-            display: none;
-        }
-    }
-
+    
+    
     .col-three-quarters-quote {
-        display: block;
+        width: 100%;
     }
-
-    @media (max-width: 1200px) {
-        .col-three-quarters-quote {
-            width: 100%;
-        }
-    }
-
-
 }
 
 
@@ -680,9 +668,8 @@ i {
 
     .blue-button,
     .burgundy-button {
-        margin: 30px 2% 0;
+        margin: 30px 4% 0;
         font-size: 0.8rem;
-        padding: 16px 24px;
     }
 
     .what-we-do p {
@@ -785,10 +772,7 @@ i {
         margin-bottom: 0;
     }
 
-    .blue-button {
-        margin-top: 20px;
-        margin-bottom: 25px;
-    }
+
 
 }
 
