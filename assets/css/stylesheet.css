@@ -596,7 +596,7 @@ i {
 @media screen and (max-width: 1200px) {
 
     #cover-text p {
-        padding: 10px 20%;
+        padding: 0px 10%;
     }
 
     .what-we-do p {
@@ -672,10 +672,6 @@ i {
 
 @media screen and (max-width: 900px) {
 
-    #cover-text p {
-        padding: 25px 15%;
-    }
-
     .blue-button,
     .burgundy-button {
         margin: 30px 4% 0;
@@ -725,8 +721,7 @@ i {
 
 
     #cover-text button {
-        padding: 20px 40px;
-        margin: 30px 30px 75px;
+        margin: 50px 6% 75px;
         font-size: 1rem;
     }
 
@@ -751,12 +746,9 @@ i {
         max-width: 73%;
     }
 
-    
-
     .form-button {
         width: 200px;
     }
-
 
 }
 
@@ -805,9 +797,27 @@ i {
         padding: 0;
     }
 
+    h1 {
+        font-size:calc(36px + 1.5vw);
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    #cover-text p {
+        font-size:calc(14px + 1.5vw);
+    }
+
 }
 
 
+@media screen and (max-width: 440px) {
+
+    #cover-text button {
+        font-size:calc(7px + 1.5vw);
+        padding: 20px 20px;
+    }
+
+}
 
 @media screen and (max-width: 380px) {
 
