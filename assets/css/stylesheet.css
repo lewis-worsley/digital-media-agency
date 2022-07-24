@@ -134,7 +134,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
-    background: url("./assets/images/rise-logo-in-white.png");
+    background: url('./assets/images/rise-logo-in-white.png');
     width: 150px;
     height: auto;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@ h1 {
     width: 100%;
     height: auto;
     background-color: #07081a;
-    background: url("../");
+    background: url('/assets/images/rise-office.jpg');
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -380,7 +380,7 @@ hr {
 /* Social Media Marketing */
 
 #social-media-marketing {
-    background: url(/assets/images/icons/social-media-marketing.png);
+    background: url("/assets/images/icons/social-media-marketing.png");
     
 }
 
@@ -403,7 +403,7 @@ hr {
 /* SEO Marketing */
 
 #seo-marketing {
-    background: url(/assets/images/icons/seo-marketing.png);
+    background: url("/assets/images/icons/seo-marketing.png");
 }
 
 .seo-block {
@@ -425,7 +425,7 @@ hr {
 /* Remarketing Ads */
 
 #remarketing-ads {
-    background: url(/assets/images/icons/remarketing-ads.png);
+    background: url("/assets/images/icons/remarketing-ads.png");
     
 }
 
@@ -448,7 +448,7 @@ hr {
 /* TV Marketing */
 
 #tv-marketing {
-    background: url(/assets/images/icons/television-advertising.png);
+    background: url("/assets/images/icons/television-advertising.png");
 }
 
 .tv-block h3 {
@@ -466,7 +466,7 @@ hr {
 /* Web Design */
 
 #web-design {
-    background: url(/assets/images/icons/web-design.png);
+    background: url("/assets/images/icons/web-design.png");
 }
 
 .web-block h3 {
@@ -593,7 +593,7 @@ footer h2 {
 }
 
 .rise-logo-h {
-    background: url(/assets/images/rise-logo-for-quote-and-footer.png);
+    background: url("/assets/images/rise-logo-for-quote-and-footer.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
