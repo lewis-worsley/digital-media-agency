@@ -305,14 +305,15 @@ h1 {
 }
 
 .rise-logo-quote {
+    background: url(/assets/images/rise-logo-for-quote-and-footer.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
     opacity: 0.1;
-    margin: 50px;
-    height: 350px;
-    width: auto;
-
+    margin: 34px;
+    width: 250px;
+    height: 400px;
+    right: 10%;
     position: absolute;
 }
 
@@ -625,8 +626,9 @@ i {
     }
 
     .rise-logo-quote {
-        margin: 70px 150px;
-        height: 312px;
+        right: 3%;
+        height: 400px;
+        margin: 20px;
 
     }
 
@@ -643,6 +645,14 @@ i {
     }
 }
 
+@media screen and (max-width: 1180px) {
+
+    .rise-logo-quote {
+        margin: 34px;
+        
+
+    }
+}
 
 @media screen and (max-width: 1000px) {
 
