@@ -258,7 +258,7 @@ h1 {
 .blue-button,
 .burgundy-button {
     padding: 15px 30px;
-    margin: 50px 2% 0;
+    margin: 50px 4% 0;
     font-size: 1rem;
     color: white;
 
@@ -621,7 +621,7 @@ i {
 
     .blue-button,
     .burgundy-button {
-        margin: 40px 10px 0;
+        margin: 40px 4% 0;
         font-size: 0.80rem;
     }
 
@@ -638,8 +638,8 @@ i {
     .col-quarter-quote {
         display: none;
     }
-    
-    
+
+
     .col-three-quarters-quote {
         width: 100%;
     }
@@ -649,7 +649,7 @@ i {
 
     .rise-logo-quote {
         margin: 34px;
-        
+
 
     }
 }
@@ -798,22 +798,29 @@ i {
     }
 
     h1 {
-        font-size:calc(36px + 1.5vw);
+        font-size: calc(36px + 1.5vw);
         padding-left: 5%;
         padding-right: 5%;
     }
 
     #cover-text p {
-        font-size:calc(14px + 1.5vw);
+        font-size: calc(14px + 1.5vw);
+    }
+
+    .blue-button,
+    .burgundy-button {
+        margin: 30px 10% 0;
+        font-size: 0.8rem;
     }
 
 }
 
 
+
 @media screen and (max-width: 440px) {
 
     #cover-text button {
-        font-size:calc(7px + 1.5vw);
+        font-size: calc(7px + 1.5vw);
         padding: 20px 20px;
     }
 
@@ -829,7 +836,7 @@ i {
     input {
         margin: 10px auto;
         width: 70%;
-        
+
     }
 
     .website-form-input {
@@ -844,7 +851,7 @@ i {
         max-width: 76%;
     }
 
-    
+
 
     .form-button {
         margin-left: auto;
