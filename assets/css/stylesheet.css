@@ -134,7 +134,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
-    background: url("../design-media-agency/assets/images/rise-logo-in-white.png");
+    background: url("./assets/images/rise-logo-in-white.png");
     width: 150px;
     height: auto;
     background-repeat: no-repeat;
@@ -314,7 +314,7 @@ h1 {
 }
 
 .rise-logo-quote {
-    background: url(/assets/images/rise-logo-for-quote-and-footer.png);
+    background: url("./assets/images/rise-logo-for-quote-and-footer.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -327,7 +327,7 @@ h1 {
 }
 
 .founder {
-    background: url(/assets/images/founder-211x350px.png);
+    background: url("./assets/images/founder-211x350px.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 449px;
