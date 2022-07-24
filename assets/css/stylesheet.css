@@ -335,6 +335,8 @@ h1 {
 
 /* Services aka RAISE YOUR GAME section */
 
+
+
 .purple-h2 {
     color: #531c44;
     margin-bottom: 10px;
@@ -347,8 +349,6 @@ h1 {
 .upper-row {
     margin: 50px auto 100px;
 }
-
-
 
 hr {
     margin-top: 0.5em;
@@ -372,7 +372,24 @@ hr {
     background-color: #3a3a3a;
 }
 
+#social-media-marketing,
+#seo-marketing,
+#remarketing-ads,
+#tv-marketing,
+#web-design {
+    width: auto;
+    height: 101px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+
 /* Social Media Marketing */
+
+#social-media-marketing {
+    background: url(/assets/images/icons/social-media-marketing.png);
+    
+}
 
 .smm-block {
     margin-bottom: 150px;
@@ -392,6 +409,10 @@ hr {
 
 /* SEO Marketing */
 
+#seo-media-marketing {
+    background: url(/assets/images/icons/seo-marketing.png);
+}
+
 .seo-block {
     margin-bottom: 150px;
 }
@@ -409,6 +430,11 @@ hr {
 }
 
 /* Remarketing Ads */
+
+#remarketing-ads {
+    background: url(/assets/images/icons/remarketing-ads.png);
+    
+}
 
 .remarketing-block {
     margin-bottom: 150px;
@@ -428,6 +454,10 @@ hr {
 
 /* TV Marketing */
 
+#tv-marketing {
+    background: url(/assets/images/icons/television-advertising.png);
+}
+
 .tv-block h3 {
     color: #07081a;
 }
@@ -441,6 +471,10 @@ hr {
 }
 
 /* Web Design */
+
+#web-design {
+    background: url(/assets/images/icons/web-design.png);
+}
 
 .web-block h3 {
     color: #003551;
