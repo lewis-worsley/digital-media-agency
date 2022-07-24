@@ -802,12 +802,12 @@ i {
         margin-right: 0;
     }
 
-}
-
-
-@media screen and (max-width: 500px) {
-
     #hero-image {
         padding-top: 103px;
     }
+
+    #cover-text {
+        padding: 0;
+    }
+
 }
