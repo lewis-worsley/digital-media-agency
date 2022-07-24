@@ -195,6 +195,10 @@ li {
     overflow: hidden;
 }
 
+button > a {
+    text-decoration: none;
+}
+
 
 /* hero image section */
 
@@ -372,17 +376,6 @@ hr {
     background-color: #3a3a3a;
 }
 
-#social-media-marketing,
-#seo-marketing,
-#remarketing-ads,
-#tv-marketing,
-#web-design {
-    width: auto;
-    height: 101px;
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: center;
-}
 
 /* Social Media Marketing */
 
@@ -409,7 +402,7 @@ hr {
 
 /* SEO Marketing */
 
-#seo-media-marketing {
+#seo-marketing {
     background: url(/assets/images/icons/seo-marketing.png);
 }
 
@@ -487,6 +480,22 @@ hr {
 .web-block button {
     background-color: #003551;
 }
+
+
+
+#social-media-marketing,
+#seo-marketing,
+#remarketing-ads,
+#tv-marketing,
+#web-design {
+    width: auto;
+    height: 101px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+
+
 
 
 
