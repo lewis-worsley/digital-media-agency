@@ -241,8 +241,6 @@ h1 {
 
 #cover-text hr {
     border-color: white;
-    padding-left: auto;
-    padding-right: auto;
     margin: 25px auto;
 }
 
@@ -256,7 +254,7 @@ h1 {
 /* WHAT WE DO (aka Digital Media Agency) section */
 
 #about-us h2 {
-    margin: 0px 0 20;
+    margin: 0 0 20px;
 }
 
 .burgundy-h2 {
