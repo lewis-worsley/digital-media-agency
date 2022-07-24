@@ -135,6 +135,7 @@ footer {
     margin-right: auto;
     margin-top: 5px;
     background: url('images/rise-logo-in-white.png');
+    src: url('/assets/images/rise-logo-in-white.png');
     width: 150px;
     height: auto;
     background-repeat: no-repeat;
