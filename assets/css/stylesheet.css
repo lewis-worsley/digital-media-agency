@@ -581,7 +581,7 @@ i {
         padding: 10px 10% 20px;
     }
 
-    
+
     .tv-block {
         margin-bottom: 150px;
     }
@@ -735,23 +735,26 @@ i {
 
     form {
         width: 100%;
-        clear: both;
         padding: 0;
     }
 
     input {
         margin: 10px;
-        width: 300px;
+        width: 70%;
+    }
+
+    .website-form-input {
+        max-width: 70%;
     }
 
     textarea {
         margin: 10px;
-        max-width: 320px;
+        width: 73%;
+        min-width: 73%;
+        max-width: 73%;
     }
 
-    .website-form-input {
-        max-width: 300px;
-    }
+    
 
     .form-button {
         width: 200px;
@@ -768,13 +771,11 @@ i {
 
     .what-we-do p {
         width: 100%;
-        clear: both;
         padding: 0;
         margin: 10px 10%;
     }
 
     .services p {
-        clear: both;
         padding: 10px 10%;
     }
 
@@ -808,6 +809,42 @@ i {
 
     #cover-text {
         padding: 0;
+    }
+
+}
+
+
+
+@media screen and (max-width: 380px) {
+
+    form {
+        width: 100%;
+        padding: 0;
+    }
+
+    input {
+        margin: 10px auto;
+        width: 70%;
+        
+    }
+
+    .website-form-input {
+        margin: 10px auto;
+        width: 75%;
+    }
+
+    textarea {
+        margin: 10px auto;
+        width: 76%;
+        min-width: 76%;
+        max-width: 76%;
+    }
+
+    
+
+    .form-button {
+        margin-left: auto;
+        margin-right: auto;
     }
 
 }
