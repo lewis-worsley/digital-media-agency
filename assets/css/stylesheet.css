@@ -214,8 +214,8 @@ h1 {
     width: 100%;
     height: auto;
     background-color: #07081a;
-    background: url("/assets/images/rise\ office.jpg");
-    background-position: right;
+    background: url("/assets/images/rise-office.jpg");
+    background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 105px;
