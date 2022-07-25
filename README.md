@@ -1,88 +1,51 @@
 # RISE Media
+RISE media is a global digital media agency with offices in London, New York, Sydney & Toronto. 
 
-RISE media is a global digital media agency with offices in London, New York S
+Across the world, SMBs and enterprises are in the process of undergoing a digital transformation, primarily driven by Covid-19. With the ability to 'work from anywhere', businesses are looking for innovative strategies that help their brand grow by connecting with their customers on a human and emotional level.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
+The website is designed to attract higher seniority levels, those who have the ability to affect business decisions and buying, such as CTOs, Marketing Directors, Head of IT etc.
 
 ## Contents
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Features
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+All of the contents and features is hosted on one page: homepage.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### Existing Features
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- Navigation Bar
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+- Hero Image Section
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+- About Us (aka What We Do) Section
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+- Quote Section
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- Services (aka Raise Your Game) Section
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- Footer
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Main Branch
+- Once the master branch has been selected, the page will be automatically refreshed with the word 'active' displayed in a green colour at the end of the sentence (next to last duration when published)
+The live link can be found here - https://lewis-worsley.github.io/digital-media-agency/
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Languages
+The coding languages used
+- HTML
+- CSS
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Software
+The design for RISE Media was created via the Adobe Creative Cloud Suite; more specifically I used:
+- Abobe Photoshop
+- Adobe InDesign
+- Adobe Illustrator
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Through using these three tools, I was able to design the logo, create imagery, design the website, and compress web images by either reducing image size or quality via export.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Media
+The logo and icons for RISE Media was designed by myself, Lewis Worsley. 
 
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
