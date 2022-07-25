@@ -134,7 +134,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
-    background: url('images/rise-logo-in-white.png');
+    background: url('/assets/images/rise-office.jpg');
     width: 150px;
     height: auto;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@ h1 {
     width: 100%;
     height: auto;
     background-color: #212121;
-    background: url('digital-media-agency/assets/images/rise-office.jpg');
+    background: url('/assets/images/rise-office.jpg');
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
