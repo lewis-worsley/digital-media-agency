@@ -25,7 +25,20 @@ All of the contents and features is hosted on one page: homepage.
 
 - Footer
 
-## Deployment
+## Testing
+
+
+### Validator Testing
+
+The two websites used to validate the code:
+- https://validator.w3.org/
+- https://jigsaw.w3.org/css-validator/
+
+#### HTML Validator
+
+
+
+## Deployments
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Main Branch
