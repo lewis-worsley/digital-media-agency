@@ -6,12 +6,15 @@ Across the world, SMBs and enterprises are in the process of undergoing a digita
 The website is designed to attract higher seniority levels, those who have the ability to affect business decisions and buying, such as CTOs, Marketing Directors, Head of IT etc.
 
 ## Contents
+<hr>
 
 ## Features
+<hr>
 
 All of the contents and features is hosted on one page: homepage.
 
 ### Existing Features
+<hr>
 
 - Navigation Bar
 
@@ -26,19 +29,23 @@ All of the contents and features is hosted on one page: homepage.
 - Footer
 
 ## Testing
-
+<hr>
+Throughout the design of the website, but more so after the structure and contents of the page was added, Google Dev-tools was used extensively to validate new ideas, fix errors, unearth solutions, and ensure consistency with the design and user experience across various devices by ensuring the website was responsive.
 
 ### Validator Testing
+<hr>
 
 The two websites used to validate the code:
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
 
 #### HTML Validator
-
-
+<hr>
+<img src="assets/readme-images/html-markup-check.jpg">
+Consistent error 
 
 ## Deployments
+<hr>
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Main Branch
@@ -46,11 +53,13 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here - https://lewis-worsley.github.io/digital-media-agency/
 
 ## Languages
+<hr>
 The coding languages used
 - HTML
 - CSS
 
 ## Software
+<hr>
 The design for RISE Media was created via the Adobe Creative Cloud Suite; more specifically I used:
 - Abobe Photoshop
 - Adobe InDesign
