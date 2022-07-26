@@ -47,5 +47,19 @@ Through using these three tools, I was able to design the logo, create imagery, 
 
 
 ## Media
-The logo and icons for RISE Media was designed by myself, Lewis Worsley. 
+The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 
+## Credits
+- The 3-colour-gradient for the brand was provided by https://mycolor.space/
+
+- The CSS structure for the hero section was inspired by the Code Institute's Coders Coffeehouse
+
+- The CSS code to achieve a gradient background was provided by https://www.w3schools.com/
+
+- To specify a minimum font-size for responsive design - especially for mobile - a user from Stack Overflow in a public open forum https://stackoverflow.com/questions/23984629/how-to-set-min-font-size-in-css provided CSS code to help achieve this
+
+- Change the color of the placeholder text of an input field was provided by https://www.w3schools.com/
+
+- Font pairing (Proza Libre and Open Sans) for RISE Media was inspired by https://www.fontpair.co/
+
+- Social media text icons located in the footer were sourced from https://fontawesome.com/
