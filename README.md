@@ -44,6 +44,9 @@ The two websites used to validate the code:
 Errors discovered:
 <img src="assets/readme-images/html-markup-check.jpg">
 <img src="assets/readme-images/html-markup-check-2.jpg">
+<img src="assets/readme-images/html-markup-check-3.jpg">
+
+Errors fixed:
 
 ## Deployments
 <hr>
