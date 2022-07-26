@@ -41,8 +41,9 @@ The two websites used to validate the code:
 
 #### HTML Validator
 <hr>
+Errors discovered:
 <img src="assets/readme-images/html-markup-check.jpg">
-Consistent error 
+<img src="assets/readme-images/html-markup-check-2.jpg">
 
 ## Deployments
 <hr>
