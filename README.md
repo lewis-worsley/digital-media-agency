@@ -48,6 +48,12 @@ Errors discovered:
 
 Errors fixed:
 
+#### CSS Validator
+<hr>
+<img src="assets/readme-images/css-markup-check.jpg">
+<img src="assets/readme-images/css-markup-check-2.jpg">
+
+
 ## Deployments
 <hr>
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -73,9 +79,11 @@ Through using these three tools, I was able to design the logo, create imagery, 
 
 
 ## Media
+<hr>
 The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 
 ## Credits
+<hr>
 - The 3-colour-gradient for the brand was provided by https://mycolor.space/
 
 - The CSS structure for the hero section was inspired by the Code Institute's Coders Coffeehouse
