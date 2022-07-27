@@ -16,6 +16,8 @@ All of the contents and features is hosted on one page: homepage.
 ### Existing Features
 <hr>
 
+To evaluate the website, the structure can be split into six sections:
+
 #### Navigation Bar
 <hr>
 
