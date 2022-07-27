@@ -61,6 +61,10 @@ Errors discovered:<br>
 Errors fixed:<br>
 <img src="assets/readme-images/css-markup-check-after.jpg">
 
+#### WAVE (Web Accesssibility Evaluation Tool)
+Errors discovered: <br>
+<img>
+
 ## Deployments
 <hr>
 The site was deployed to GitHub pages. The steps to deploy are as follows:
