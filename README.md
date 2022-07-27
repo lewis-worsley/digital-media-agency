@@ -45,13 +45,17 @@ For future development: a hamburger menu would be incorporated into the navigati
 #### About Us (aka What We Do) section
 <hr>
 
-- 
+- RISE Media is a B2B company, therefore a short summary of who RISE Media is and what they do is essential to informing the user of their services and capabilties
+- The user is presented with two buttons: 'WORK WITH US' which takes the user to the form section and; 'FIND OUT MORE' which takes the user to find RISE Media's services
+
 
 #### Quote section
 <hr>
 
 #### Services (aka Raise Your Game) section
 <hr>
+
+- The top row with three columns seperates into two columns once 1450px width is met, and at 1000x width it collapses to one column. This ensures there is adequate spacing between all five mini-sections
 
 #### Footer
 <hr>
