@@ -22,19 +22,21 @@ To evaluate the website, the structure can be split into six sections:
 <hr>
 
 - The navigation supports the brand logo (which upon being clicked returns the user to the homepage) and brand colour (3 colour gradient)
-- Supporting the logo in the navigation bar, is links to About Us (aka, What We Do), Services (aka, Raise Your Game) and Free Consultation form.
+- Supporting the logo in the navigation bar, is links to About Us (aka, What We Do), Services (aka, Raise Your Game) and Free Consultation form
 
 <img src="assets/readme-images/nav-bar.jpg">
 
 - Responsive across desktop, tablet, and mobile, however the following links are hidden in the nav bar once certain parameters are met regarding width:
     - 800px and less: About Us and Services links are hidden
     - 500px and less: Free Consultation link is hidden and the logo is centered
+- The site incorporates a sticky navigation bar to make it easy for users to navigate on the website
 
 For future development: a hamburger menu would be incorporated into the navigation bar once width hits 800px and less to show the hidden links.
 
-
 #### Hero Image section
 <hr>
+
+
 
 #### About Us (aka What We Do) section
 <hr>
