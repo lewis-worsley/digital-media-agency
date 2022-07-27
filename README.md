@@ -50,6 +50,8 @@ For future development: a hamburger menu would be incorporated into the navigati
 
 - RISE Media is a B2B company, therefore a short summary of who RISE Media is and what they do is essential to informing the user of the company's services and capabilties
 - The user is presented with two buttons: 'WORK WITH US' which takes the user to the form section and; 'FIND OUT MORE' which takes the user to find RISE Media's services
+- At 690px and less, the 'FIND OUT MORE' drops underneath the 'WORK WITH US' button to ensure there is adequate space between elements and edge of screen
+
 
 <img src="assets/readme-images/about-us.jpg">
 
@@ -72,7 +74,20 @@ For future development: a hamburger menu would be incorporated into the navigati
 #### Services (aka Raise Your Game) section
 <hr>
 
-- The top row with three columns seperates into two columns once 1450px width is met, and at 1000x width it collapses to one column. This ensures there is adequate spacing between all five mini-sections
+- The top row with three columns seperates into two columns once 1450px width is met, and at 1000x width it collapses to one column. This ensures there is adequate spacing between all five mini-sections and edge of screen
+- The five services are seperated by colour to help the user to quickly distinguish between the different services on offer from RISE Media. The elements affected are the icons, heading, horizontal line, and call-to-action button.
+- Icons are used to support the titles and help the visitor to easily identify what services we RISE Media have to offer
+- A brief description of each service and use of colour to differentiate between the services gives the user enough information to process without feeling overwhelmed
+
+<img src="assets/readme-images/services.jpg">
+<img src="assets/readme-images/services-2.jpg">
+
+<br>
+
+For future development: none of the buttons in this section direct the user elsewhere on the website. At the moment, the buttons are there purely for presentation purposes. However, once the appropriate services pages are added onto the website, the buttons will redirect the user to the respective service page they've requested to see.
+
+<br>
+
 
 #### Footer
 <hr>
@@ -88,6 +103,7 @@ The two websites used to validate the code:
 
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
+- https://wave.webaim.org/
 
 #### HTML Validator
 <hr>
@@ -130,7 +146,8 @@ The live link can be found here - https://lewis-worsley.github.io/digital-media-
 
 ## Languages
 <hr>
-The coding languages used
+The coding languages used:
+
 - HTML
 - CSS
 
