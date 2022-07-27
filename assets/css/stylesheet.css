@@ -931,8 +931,13 @@ i {
 @media screen and (max-width: 270px) {
 
         #cover-text a {
-            font-size: calc(9px + 1.5vw);
             padding: 20px 20px;
+        }
+
+        .grad-red {
+            display: grid;
+            justify-content: center;
+            margin: 0 5%;
         }
     
 }
@@ -940,7 +945,6 @@ i {
 @media screen and (max-width: 200px) {
 
     #cover-text a {
-        font-size: calc(5px + 1.5vw);
         padding: 20px 20px;
     }
 
