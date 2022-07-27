@@ -376,7 +376,7 @@ hr {
     color: white;
 }
 
-.row-services-width button:hover {
+.row-services-width a:hover {
     background-color: #3a3a3a;
 }
 
@@ -484,6 +484,8 @@ hr {
 .web-block a {
     background-color: #003551;
 }
+
+
 
 .smm-block a,
 .seo-block a,
