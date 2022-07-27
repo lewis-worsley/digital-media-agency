@@ -52,9 +52,12 @@ The quote section does not need no heading elements due to no hierarchy of impor
 
 #### CSS Validator
 <hr>
+Errors discovered:
 <img src="assets/readme-images/css-markup-check.jpg">
 <img src="assets/readme-images/css-markup-check-2.jpg">
 
+Errors fixed:
+<img src="assets/readme-images/css-markup-check-after.jpg">
 
 ## Deployments
 <hr>
