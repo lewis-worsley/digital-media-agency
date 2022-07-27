@@ -485,7 +485,13 @@ hr {
     background-color: #003551;
 }
 
-
+.smm-block a,
+.seo-block a,
+.remarketing-block a,
+.tv-block a,
+.web-block a {
+    padding: 15px 30px;
+}
 
 #social-media-marketing,
 #seo-marketing,
