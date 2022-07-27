@@ -16,17 +16,23 @@ All of the contents and features is hosted on one page: homepage.
 ### Existing Features
 <hr>
 
-- Navigation Bar
+#### Navigation Bar
+<hr>
 
-- Hero Image Section
+#### Hero Image section
+<hr>
 
-- About Us (aka What We Do) Section
+#### About Us (aka What We Do) section
+<hr>
 
-- Quote Section
+#### Quote section
+<hr>
 
-- Services (aka Raise Your Game) Section
+#### Services (aka Raise Your Game) section
+<hr>
 
-- Footer
+#### Footer
+<hr>
 
 ## Testing
 <hr>
