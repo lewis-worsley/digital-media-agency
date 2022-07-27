@@ -32,6 +32,8 @@ For future development: a hamburger menu would be incorporated into the navigati
 
 <img src="assets/readme-images/nav-bar.jpg">
 
+<br>
+
 #### Hero Image section
 <hr>
 
@@ -41,16 +43,31 @@ For future development: a hamburger menu would be incorporated into the navigati
 
 <img src="assets/readme-images/hero-image.jpg">
 
+<br>
 
 #### About Us (aka What We Do) section
 <hr>
 
-- RISE Media is a B2B company, therefore a short summary of who RISE Media is and what they do is essential to informing the user of their services and capabilties
+- RISE Media is a B2B company, therefore a short summary of who RISE Media is and what they do is essential to informing the user of the company's services and capabilties
 - The user is presented with two buttons: 'WORK WITH US' which takes the user to the form section and; 'FIND OUT MORE' which takes the user to find RISE Media's services
 
+<img src="assets/readme-images/about-us.jpg">
+
+<br>
 
 #### Quote section
 <hr>
+
+- Positioning the founder onto the homepage helps to promote a thought leadership position and evoke a human response - human to human interaction helps to forge bonds and emotions. It puts a name to a face and is designed to make the user feel welcome onto RISE Media's website
+- At 1200px and less, the image of the founder is hidden to make space for the smaller screen
+- At 900px and less, the background logo is hidden to focus the user attention on the text for the smaller screen 
+- To highlight it's a quote, the quotation marks have been emphasised by making the font-size greater than the other elements in the section
+- There is no heading in the section because it doesn't justify one
+- All elements, excluding image of the founder and logo, remain at the same size to highlight that the quote section is a standalone feature on the homepage
+
+<img src="assets/readme-images/quote.jpg">
+
+<br>
 
 #### Services (aka Raise Your Game) section
 <hr>
