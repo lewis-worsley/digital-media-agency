@@ -36,6 +36,7 @@ For future development: a hamburger menu would be incorporated into the navigati
 #### Hero Image section
 <hr>
 
+- 
 
 
 #### About Us (aka What We Do) section
