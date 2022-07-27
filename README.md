@@ -41,12 +41,12 @@ The two websites used to validate the code:
 
 #### HTML Validator
 <hr>
-Errors discovered:
+Errors discovered:<br>
 <img src="assets/readme-images/html-markup-check.jpg">
 <img src="assets/readme-images/html-markup-check-2.jpg">
 <img src="assets/readme-images/html-markup-check-3.jpg">
 
-Errors fixed:
+Errors fixed:<br>
 <img src="assets/readme-images/html-markup-check-after.jpg">
 Whilst the remaining issues were able to be fixed, the warning still remains. 
 
@@ -54,11 +54,11 @@ In this instance, the quote section does not need no heading elements due to no 
 
 #### CSS Validator
 <hr>
-Errors discovered:
+Errors discovered:<br>
 <img src="assets/readme-images/css-markup-check.jpg">
 <img src="assets/readme-images/css-markup-check-2.jpg">
 
-Errors fixed:
+Errors fixed:<br>
 <img src="assets/readme-images/css-markup-check-after.jpg">
 
 ## Deployments
