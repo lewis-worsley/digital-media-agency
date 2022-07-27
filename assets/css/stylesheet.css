@@ -236,6 +236,9 @@ h1 {
 
 .hero-button {
     margin: 60px 0 70px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 #cover-text hr {
@@ -261,6 +264,7 @@ h1 {
     font-size: 1rem;
     color: white;
     text-decoration: none;
+    letter-spacing: 2px;
 
 }
 
@@ -495,6 +499,11 @@ hr {
 
 .services-button-margin {
     margin-top: 40px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 1rem
 }
 
 
@@ -670,7 +679,9 @@ i {
     .blue-button,
     .burgundy-button {
         margin: 40px 4% 0;
-        font-size: 0.90rem;
+        font-size: 1rem;
+        text-transform: uppercase;
+        font-weight: bold;
         
     }
 

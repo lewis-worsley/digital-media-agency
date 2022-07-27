@@ -62,8 +62,12 @@ Errors fixed:<br>
 <img src="assets/readme-images/css-markup-check-after.jpg">
 
 #### WAVE (Web Accesssibility Evaluation Tool)
+<hr>
 Errors discovered: <br>
-<img>
+<img src="assets/readme-images/wave.jpg">
+<img src="assets/readme-images/wave-details.jpg">
+
+Errors fixed: <br>
 
 ## Deployments
 <hr>
