@@ -269,6 +269,7 @@ h1 {
     margin: 50px 4% 0;
     font-size: 1rem;
     color: white;
+    text-decoration: none;
 
 }
 
@@ -276,6 +277,11 @@ h1 {
 .burgundy-button:hover {
     background-color: #3a3a3a;
     color: white;
+    
+}
+
+.about-us-buttons {
+    margin-top: 40px;
 }
 
 .blue-button {
@@ -669,7 +675,8 @@ i {
     .blue-button,
     .burgundy-button {
         margin: 40px 4% 0;
-        font-size: 0.80rem;
+        font-size: 0.90rem;
+        
     }
 
     .rise-logo-quote {
@@ -722,7 +729,6 @@ i {
     .blue-button,
     .burgundy-button {
         margin: 30px 4% 0;
-        font-size: 0.8rem;
     }
 
     .what-we-do p {
@@ -860,8 +866,7 @@ i {
 
     .blue-button,
     .burgundy-button {
-        margin: 30px 10% 0;
-        font-size: 0.8rem;
+        margin: 30px 5% 0;
     }
 
     .hero-button {
@@ -876,6 +881,12 @@ i {
 
     .hero-button {
         margin: 60px 0 90px;
+    }
+
+    .about-us-buttons {
+        display: grid;
+        justify-items: center;
+        margin-top: 0;
     }
 
 }
