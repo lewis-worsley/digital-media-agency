@@ -179,17 +179,19 @@ li {
     color: inherit;
 }
 
-.free-consultation {
+#menu .free-consultation:hover {
+    background-color: #3a3a3a;
+    color: white;
+}
+
+#menu .free-consultation {
     padding: 15px 30px;
     font-size: 1rem;
     background-color: white;
     color: #3a3a3a;
 }
 
-.free-consultation:hover {
-    background-color: #3a3a3a;
-    color: white;
-}
+
 
 #navbar {
     overflow: hidden;
