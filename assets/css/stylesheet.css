@@ -265,6 +265,8 @@ h1 {
     color: white;
     text-decoration: none;
     letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
 
 }
 
@@ -679,9 +681,6 @@ i {
     .blue-button,
     .burgundy-button {
         margin: 40px 4% 0;
-        font-size: 1rem;
-        text-transform: uppercase;
-        font-weight: bold;
         
     }
 
