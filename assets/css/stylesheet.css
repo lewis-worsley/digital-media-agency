@@ -198,11 +198,6 @@ li {
     overflow: hidden;
 }
 
-button > a {
-    text-decoration: none;
-}
-
-
 /* hero image section */
 
 h1 {
@@ -367,13 +362,6 @@ hr {
     border-width: 1px;
     border-color: #531c44;
     width: 60px;
-}
-
-.row-services-width button {
-    padding: 10px 25px;
-    margin: 25px 0 0;
-    font-size: 0.8rem;
-    color: white;
 }
 
 .row-services-width a:hover {
@@ -551,7 +539,6 @@ input {
     font-family: 'Proza Libre', sans-serif;
     font-weight: 700;
     font-size: inherit;
-    border-radius: 10px;
     border-bottom: none;
     padding: 15px;
     cursor: pointer;
