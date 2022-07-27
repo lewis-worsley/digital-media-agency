@@ -115,6 +115,8 @@ a {
 
 .grad-red {
     background-image: linear-gradient(to top right, #531c44, #962841, #e05b60);
+    padding: 15px 30px;
+    text-decoration: none;
 }
 
 .grad-blue {
