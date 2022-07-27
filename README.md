@@ -21,6 +21,18 @@ To evaluate the website, the structure can be split into six sections:
 #### Navigation Bar
 <hr>
 
+- The navigation supports the brand logo (which upon being clicked returns the user to the homepage) and brand colour (3 colour gradient)
+- Supporting the logo in the navigation bar, is links to About Us (aka, What We Do), Services (aka, Raise Your Game) and Free Consultation form.
+
+<img src="assets/readme-images/nav-bar.jpg">
+
+- Responsive across desktop, tablet, and mobile, however the following links are hidden in the nav bar once certain parameters are met regarding width:
+    - 800px and less: About Us and Services links are hidden
+    - 500px and less: Free Consultation link is hidden and the logo is centered
+
+For future development: a hamburger menu would be incorporated into the navigation bar once width hits 800px and less to show the hidden links.
+
+
 #### Hero Image section
 <hr>
 
@@ -44,6 +56,7 @@ Throughout the design of the website, but more so after the structure and conten
 <hr>
 
 The two websites used to validate the code:
+
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
 
@@ -80,6 +93,7 @@ Errors fixed: <br>
 ## Deployments
 <hr>
 The site was deployed to GitHub pages. The steps to deploy are as follows:
+
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Main Branch
 - Once the master branch has been selected, the page will be automatically refreshed with the word 'active' displayed in a green colour at the end of the sentence (next to last duration when published)
@@ -94,6 +108,7 @@ The coding languages used
 ## Software
 <hr>
 The design for RISE Media was created via the Adobe Creative Cloud Suite; more specifically I used:
+
 - Abobe Photoshop
 - Adobe InDesign
 - Adobe Illustrator
@@ -107,6 +122,7 @@ The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 
 ## Credits
 <hr>
+
 - The 3-colour-gradient for the brand was provided by https://mycolor.space/
 
 - The CSS structure for the hero section was inspired by the Code Institute's Coders Coffeehouse
