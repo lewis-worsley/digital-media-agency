@@ -318,7 +318,7 @@ h1 {
 }
 
 .rise-logo-quote {
-    background: url("./assets/images/rise-logo-for-quote-and-footer.png");
+    background: url("/assets/images/rise-logo-for-quote-and-footer.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -331,7 +331,7 @@ h1 {
 }
 
 .founder {
-    background: url("./assets/images/founder-211x350px.png");
+    background: url("/assets/images/founder-211x350px.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 449px;
