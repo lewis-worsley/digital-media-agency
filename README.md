@@ -23,9 +23,6 @@ To evaluate the website, the structure can be split into six sections:
 
 - The navigation supports the brand logo (which upon being clicked returns the user to the homepage) and brand colour (3 colour gradient)
 - Supporting the logo in the navigation bar, is links to About Us (aka, What We Do), Services (aka, Raise Your Game) and Free Consultation form
-
-<img src="assets/readme-images/nav-bar.jpg">
-
 - Responsive across desktop, tablet, and mobile, however the following links are hidden in the nav bar once certain parameters are met regarding width:
     - 800px and less: About Us and Services links are hidden
     - 500px and less: Free Consultation link is hidden and the logo is centered
@@ -33,14 +30,22 @@ To evaluate the website, the structure can be split into six sections:
 
 For future development: a hamburger menu would be incorporated into the navigation bar once width hits 800px and less to show the hidden links.
 
+<img src="assets/readme-images/nav-bar.jpg">
+
 #### Hero Image section
 <hr>
 
-- 
+- The image in the background features a modern looking office to support the brand's forward thinking business model
+- All elements have been made bigger than the rest of the homepage to draw the user's attention to the brand's opening heading and message. It's trying to push users to booking a free consultation
+- As a consequence of the elements being made bigger for desktop screens, the respective elements reduce in size as media screens get smaller to ensure the hero image sections fits onto screen without scrolling
+
+<img src="assets/readme-images/hero-image.jpg">
 
 
 #### About Us (aka What We Do) section
 <hr>
+
+- 
 
 #### Quote section
 <hr>
