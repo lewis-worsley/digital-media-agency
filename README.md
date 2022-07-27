@@ -48,7 +48,9 @@ Errors discovered:
 
 Errors fixed:
 <img src="assets/readme-images/html-markup-check-after.jpg">
-The quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
+Whilst the remaining issues were able to be fixed, the warning still remains. 
+
+In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
 
 #### CSS Validator
 <hr>
