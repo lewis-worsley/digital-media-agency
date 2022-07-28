@@ -112,7 +112,7 @@ Throughout the design of the website, but more so after the structure and conten
 ### Validator Testing
 <hr>
 
-The two websites used to validate the code:
+The three websites used to validate the code:
 
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
@@ -125,20 +125,30 @@ Errors discovered:<br>
 <img src="assets/readme-images/html-markup-check-2.jpg">
 <img src="assets/readme-images/html-markup-check-3.jpg">
 
+<br>
+
 Errors fixed:<br>
 <img src="assets/readme-images/html-markup-check-after.jpg">
-Whilst the remaining issues were able to be fixed, the warning still remains. 
 
-In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
+<br>
+
+- Whilst the remaining issues were able to be fixed, the warning still remains. In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
+
+<br>
 
 #### CSS Validator
+Website used to validate CSS code: https://jigsaw.w3.org/css-validator/
 <hr>
 Errors discovered:<br>
 <img src="assets/readme-images/css-markup-check.jpg">
 <img src="assets/readme-images/css-markup-check-2.jpg">
 
 Errors fixed:<br>
-<img src="assets/readme-images/css-markup-check-after.jpg">
+<img src="assets/readme-images/css-markup-check-after.jpg"><br>
+
+- The latest version of the CSS stylesheet reported no errors
+
+<br>
 
 #### WAVE (Web Accesssibility Evaluation Tool)
 <hr>
