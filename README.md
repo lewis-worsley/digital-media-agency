@@ -10,14 +10,21 @@ The website is designed to attract higher seniority levels, those who have the a
 ## Contents
 <hr>
 
+<br>
+
 ## Planning & Development
 <hr>
+RISE Media has been established to help companies with their digital transformations by providing businesses the opportunitiy to integrate an outsourced digital media agency with their marketing, UX and web-development plans.<br>
+
+RISE Media is focused on being customer-centric and helping organisations their objectives and goals.
 
 <br>
 
 
 ### Site Objective
 <hr>
+As a B2B company, the site is geared towards catering for professionals who will be browsing the website during their day-to-day work activities.
+
 
 <br>
 
@@ -34,22 +41,24 @@ The website is designed to attract higher seniority levels, those who have the a
 
 <br>
 
-### Prototype
-<hr>
-
-
-<br>
-
 ### Colour Scheme
 <hr>
 
 
+<img src="assets/readme-images/brand-colours.jpg">
 
 <br>
 
 ### Typography
 <hr>
+There are two primary fonts used on the website: 
 
+ - Proza Libre for headings
+ - Open Sans for paragraph styles
+
+ The fonts are imported to the stylesheet via Google fonts.<br>
+ 
+ The social media icons that are located in the footer are provided from Font Awesome via a script
 
 <br>
 
