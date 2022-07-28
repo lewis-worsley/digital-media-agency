@@ -43,8 +43,36 @@ As a B2B company, the site is geared towards catering for professionals who will
 
 ### Colour Scheme
 <hr>
+The brand has a five colour palette, and this is supported with two gradients (45 degree angle from bottom left to top right).
 
+- Pink-red: #E05B60
+- Burgundy: #962841
+- Purple: #531C44
+- Mid Blue: #003551
+- Dark Blue: 07081A
 
+<br>
+
+#### Gradient Violet
+<hr>
+These three colours combine to create Gradient Violet:
+
+- Pink-red: #E05B60
+- Burgundy: #962841
+- Purple: #531C44
+
+It starts with Purple, followed by Burgundy, and ending with Pink-red.
+
+<br>
+
+#### Gradient Blue
+<hr>
+These two colours combine to create Gradient Blue:
+
+- Mid Blue: #003551
+- Dark Blue: 07081A
+
+It starts with Dark Blue, ending with Mid Blue.<br>
 <img src="assets/readme-images/brand-colours.jpg">
 
 <br>
