@@ -5,8 +5,53 @@ Across the world, SMBs and enterprises are in the process of undergoing a digita
 
 The website is designed to attract higher seniority levels, those who have the ability to affect business decisions and buying, such as CTOs, Marketing Directors, Head of IT etc.
 
+<br>
+
 ## Contents
 <hr>
+
+## Planning & Development
+<hr>
+
+<br>
+
+
+### Site Objective
+<hr>
+
+<br>
+
+
+### Target Audience
+<hr>
+
+
+
+<br>
+
+### Prototype
+<hr>
+
+<br>
+
+### Prototype
+<hr>
+
+
+<br>
+
+### Colour Scheme
+<hr>
+
+
+
+<br>
+
+### Typography
+<hr>
+
+
+<br>
 
 ## Features
 <hr>
