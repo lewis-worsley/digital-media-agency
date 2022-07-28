@@ -112,11 +112,18 @@ Throughout the design of the website, but more so after the structure and conten
 ### Validator Testing
 <hr>
 
-The three websites used to validate the code:
+The three websites used to validate the code are:
 
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
+
+
+For accessibility, the following websites and extensions were used:
+
 - https://wave.webaim.org/
+- WCAG Contrast Checker
+- LighthouseS
+
 
 #### HTML Validator
 <hr>
@@ -157,6 +164,24 @@ Errors discovered: <br>
 <img src="assets/readme-images/wave-details.jpg">
 
 Errors fixed: <br>
+
+#### WCAG Contrast Checker
+<hr>
+
+<img src="assets/readme-images/contrast-checker.jpg"><br>
+It's reported that there are four contrasting errors:
+
+- Two of the errors are located in the services section regarding Social Media Marketing. However, the image provided below show there is no visibility issue  and reading difficulty as there is a contrast between foreground and background colour
+
+<img src="assets/readme-images/contrast-checker-smm.jpg"><br>
+
+- The other two are located in the form section. The h2 and p element have a white foreground colour against a gradient background. The example below shows there are no issues with visibility 
+
+<img src="assets/readme-images/contrast-checker-form-text.jpg"><br>
+
+#### Lighthouse
+
+<img src="assets/readme-images/lighthouse.jpg"><br>
 
 ## Deployments
 <hr>
