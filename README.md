@@ -93,6 +93,8 @@ For future development: none of the buttons in this section direct the user else
 - Social media icons (provided by Font Awesome) are included on the footer to encourage the visitor to engage with the brand. RISE Media social platforms will provide extra value and content and act as additional touchpoints with the visitor
 - For accessibilily, each social link has an aria-label attribute
 - When a user clicks on one of the social media icons, the browser redirects the visitor to a new tab. This prevents users from leaving the website
+- The company's telephone number and email address is provided to give visitors the opportunity to reach out to RISE Media. The font-color is changed to burgundy to catch the user's eye and highlight they're call-to-action links
+- The company details have the appropriate telephone and email links to make user experience friendly. Creating a sense of 'ease-of-use' on the website will evoke positive emotions and help encourage visitors to communicate with the brand
 
 For future development: the footer is to include links to high-priorty pages and office locations.
 
