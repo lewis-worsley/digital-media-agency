@@ -179,9 +179,18 @@ It's reported that there are four contrasting errors:
 
 <img src="assets/readme-images/contrast-checker-form-text.jpg"><br>
 
-#### Lighthouse
+<br>
 
-<img src="assets/readme-images/lighthouse.jpg"><br>
+#### Lighthouse
+<hr>
+Lighthouse has reported extemely positive metrics (see graphic below) with scores ranging from 90 to 100. The results are:
+
+- Performance: 100
+- Accessibility: 97
+- Best practises: 100
+- SEO: 90
+
+<img src="assets/readme-images/lighthouse-scores.jpg"><br>
 
 ## Deployments
 <hr>
