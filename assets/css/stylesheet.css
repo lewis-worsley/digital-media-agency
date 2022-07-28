@@ -213,7 +213,7 @@ h1 {
     width: 100%;
     height: auto;
     background-color: #212121;
-    background: url('/assets/images/rise-office.jpg');
+    background: url("../images/rise-office.jpg");
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -316,7 +316,7 @@ h1 {
 }
 
 .rise-logo-quote {
-    background: url("/assets/images/rise-logo-for-quote-and-footer.png");
+    background: url("../images/rise-logo-for-quote-and-footer.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -329,7 +329,7 @@ h1 {
 }
 
 .founder {
-    background: url("/assets/images/founder-211x350px.png");
+    background: url("../images/founder-211x350px.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 449px;
@@ -375,7 +375,7 @@ hr {
 /* Social Media Marketing */
 
 #social-media-marketing {
-    background: url("/assets/images/icons/social-media-marketing.png");
+    background: url("../images/icons/social-media-marketing.png");
     
 }
 
@@ -398,7 +398,7 @@ hr {
 /* SEO Marketing */
 
 #seo-marketing {
-    background: url("/assets/images/icons/seo-marketing.png");
+    background: url("../images/icons/seo-marketing.png");
 }
 
 .seo-block {
@@ -420,7 +420,7 @@ hr {
 /* Remarketing Ads */
 
 #remarketing-ads {
-    background: url("/assets/images/icons/remarketing-ads.png");
+    background: url("../images/icons/remarketing-ads.png");
     
 }
 
@@ -443,7 +443,7 @@ hr {
 /* TV Marketing */
 
 #tv-marketing {
-    background: url("/assets/images/icons/television-advertising.png");
+    background: url("../images/icons/television-advertising.png");
 }
 
 .tv-block h3 {
@@ -461,7 +461,7 @@ hr {
 /* Web Design */
 
 #web-design {
-    background: url("/assets/images/icons/web-design.png");
+    background: url("../images/icons/web-design.png");
 }
 
 .web-block h3 {
@@ -604,7 +604,7 @@ footer h2 {
 }
 
 .rise-logo-h {
-    background: url("/assets/images/rise-logo-for-quote-and-footer.png");
+    background: url("../images/rise-logo-for-quote-and-footer.png")
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
