@@ -230,6 +230,9 @@ The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 
 ## Credits
 <hr>
+To help bring this project to life, the following deserve recognition:
+
+<br>
 
 ### Content
 <hr>
@@ -247,6 +250,8 @@ The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 - Font pairing (Proza Libre and Open Sans) for RISE Media was inspired by https://www.fontpair.co/
 
 - Social media text icons located in the footer were sourced from https://fontawesome.com/
+
+<br>
 
 ### Thanks
 <hr>
