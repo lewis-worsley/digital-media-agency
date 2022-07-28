@@ -79,18 +79,29 @@ For future development: a hamburger menu would be incorporated into the navigati
 - Icons are used to support the titles and help the visitor to easily identify what services we RISE Media have to offer
 - A brief description of each service and use of colour to differentiate between the services gives the user enough information to process without feeling overwhelmed
 
+For future development: none of the buttons in this section direct the user elsewhere on the website. At the moment, the buttons are there for presentation purposes. However, once the appropriate services pages are added onto the website, the buttons will redirect the user to the respective service page they've requested to see.
+
 <img src="assets/readme-images/services.jpg">
 <img src="assets/readme-images/services-2.jpg">
 
 <br>
 
-For future development: none of the buttons in this section direct the user elsewhere on the website. At the moment, the buttons are there purely for presentation purposes. However, once the appropriate services pages are added onto the website, the buttons will redirect the user to the respective service page they've requested to see.
+#### Footer
+<hr>
+
+- The footer indicates the end of the page - this would be replicated on every page on the website.
+- Social media icons (provided by Font Awesome) are included on the footer to encourage the visitor to engage with the brand. RISE Media social platforms will provide extra value and content and act as additional touchpoints with the visitor
+- For accessibilily, each social link has an aria-label attribute
+- When a user clicks on one of the social media icons, the browser redirects the visitor to a new tab. This prevents users from leaving the website
+
+For future development: the footer is to include links to high-priorty pages and office locations.
+
+<img src="assets/readme-images/footer.jpg">
+
+
 
 <br>
 
-
-#### Footer
-<hr>
 
 ## Testing
 <hr>
@@ -151,6 +162,8 @@ The coding languages used:
 - HTML
 - CSS
 
+<br>
+
 ## Software
 <hr>
 The design for RISE Media was created via the Adobe Creative Cloud Suite; more specifically I used:
@@ -161,12 +174,18 @@ The design for RISE Media was created via the Adobe Creative Cloud Suite; more s
 
 Through using these three tools, I was able to design the logo, create imagery, design the website, and compress web images by either reducing image size or quality via export.
 
+<br>
 
 ## Media
 <hr>
 The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 
+<br>
+
 ## Credits
+<hr>
+
+### Content
 <hr>
 
 - The 3-colour-gradient for the brand was provided by https://mycolor.space/
@@ -183,7 +202,8 @@ The logo and icons for RISE Media was designed by myself, Lewis Worsley.
 
 - Social media text icons located in the footer were sourced from https://fontawesome.com/
 
-## Thanks
+### Thanks
 <hr>
-Richard Wells
-His mentorship and time have been of utmost value to me progressing this project along. I showed my concept of RISE Media to Richard on our first call and he gave me the encouragement and belief that I could execute the design. His easy-going and laid-back persona reminds me of myself, which is why I feel our meetings have been valuable and fun. 
+
+- Richard Wells
+    - His mentorship and time have been of utmost value to me progressing this project along. I showed my concept of RISE Media to Richard on our first call and he gave me the encouragement and belief that I could execute the design. His easy-going and laid-back persona reminds me of myself, which is why I feel our meetings have been valuable and fun. 
