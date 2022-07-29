@@ -293,17 +293,13 @@ h1 {
 
 /* QUOTE section */
 
-
-
 .quote {
     background-color: #212121;
-
 }
 
 .quote p {
     color: white;
     text-align: left;
-
 }
 
 .quotation-marks {
@@ -338,6 +334,11 @@ h1 {
     margin-left: 80%;
     margin-top: 20px;
     width: 269px;
+}
+
+.founder-job-title {
+    margin-top: -15px;
+    margin-bottom: 25px;
 
 }
 
