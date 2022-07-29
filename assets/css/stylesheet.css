@@ -191,18 +191,6 @@ li {
     color: #3a3a3a;
 }
 
-#menu .burger-menu-bg:hover {
- 
-
-    background-color: white;
-    color: #212121;
-}
-
-#menu .burger-menu-bg {
-    color: white;
-    
-}
-
 
 
 #navbar {
@@ -499,6 +487,7 @@ hr {
 .web-block a {
     padding: 15px 30px;
     margin-top: 40px;
+    cursor: pointer;
 }
 
 #social-media-marketing,
@@ -793,6 +782,20 @@ i {
         background-color: #212121;
         color: white;
     }
+
+    #menu .burger-menu-bg:hover {
+ 
+
+        background-color: white;
+        color: #212121;
+    }
+    
+    #menu .burger-menu-bg {
+        color: white;
+        
+    }
+    
+    
 
 }
 
