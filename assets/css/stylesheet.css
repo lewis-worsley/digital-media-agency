@@ -585,8 +585,7 @@ footer h2 {
     font-size: 1rem;
 }
 
-.rise-logo-h {
-    background: url("../images/rise-logo-for-quote-and-footer.png");
+footer img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
