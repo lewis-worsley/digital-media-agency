@@ -376,11 +376,6 @@ hr {
 
 /* Social Media Marketing */
 
-#social-media-marketing {
-    background: url("../images/icons/social-media-marketing.png");
-    
-}
-
 .smm-block {
     margin-bottom: 150px;
 }
@@ -398,10 +393,6 @@ hr {
 }
 
 /* SEO Marketing */
-
-#seo-marketing {
-    background: url("../images/icons/seo-marketing.png");
-}
 
 .seo-block {
     margin-bottom: 150px;
@@ -421,11 +412,6 @@ hr {
 
 /* Remarketing Ads */
 
-#remarketing-ads {
-    background: url("../images/icons/remarketing-ads.png");
-    
-}
-
 .remarketing-block {
     margin-bottom: 150px;
 }
@@ -444,10 +430,6 @@ hr {
 
 /* TV Marketing */
 
-#tv-marketing {
-    background: url("../images/icons/television-advertising.png");
-}
-
 .tv-block h3 {
     color: #07081a;
 }
@@ -462,9 +444,6 @@ hr {
 
 /* Web Design */
 
-#web-design {
-    background: url("../images/icons/web-design.png");
-}
 
 .web-block h3 {
     color: #003551;
