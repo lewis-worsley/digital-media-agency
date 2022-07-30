@@ -185,6 +185,12 @@ li {
     transition: 0.5s;
 }
 
+.navbar-button-transform {
+    transform: translateY(0px);
+    box-shadow: none;
+    transition: none;
+}
+
 #menu .free-consultation:hover {
     background-color: #3a3a3a;
     color: white;
@@ -758,11 +764,20 @@ i {
         width: -webkit-fill-available;
     }
 
+    .navbar-button-transform:hover {
+        transform: translateY(0px);
+        transition: none;
+    }
+
+    .navbar-button-transform {
+        box-shadow: 2px 20px 15px rgba(0, 0, 0, 0.5);
+    }
 
     #menu .free-consultation:hover,
     .burger-menu-bg:hover {
         background-color: white;
         color: #3a3a3a;
+        transform: translateY(0px);
     }
 
     #menu .free-consultation {
@@ -771,8 +786,6 @@ i {
     }
 
     #menu .burger-menu-bg:hover {
- 
-
         background-color: white;
         color: #212121;
     }
@@ -781,8 +794,8 @@ i {
         color: white;
         
     }
-    
-    
+
+
 
 }
 
