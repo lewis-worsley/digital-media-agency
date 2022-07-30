@@ -3,8 +3,6 @@ RISE media is a global digital media agency with offices in London, New York, Sy
 
 Across the world, SMBs and enterprises are in the process of undergoing a digital transformation, primarily driven by Covid-19. With the ability to 'work from anywhere', businesses are looking for innovative strategies that help their brand grow by connecting with their customers on a human and emotional level.
 
-The website is designed to attract higher seniority levels, those who have the ability to affect business decisions and buying, such as CTOs, Marketing Directors, Head of IT etc.
-
 <br>
 
 ## Contents
@@ -46,8 +44,24 @@ In summary, the site is to:
 
 ### Target Audience
 <hr>
+The website is designed to attract higher seniority levels, those who have the ability to affect business decisions and buying, such as CTOs, Marketing Directors, Head of IT etc.
 
+Ideally, users visiting the website are professionals whom are employed by a company:
 
+- Marketing Managers and higher
+- UX Managers and higher
+- Software Development Managers and higher
+- Owners, CEOs, CTOs, CFOs for startups are welcome
+
+Users with these professions will be interested in the services that RISE Media have to offer. In Summary, users who have an interest in the following services:
+
+- Social Media Marketing
+- SEO & PPC Management
+- Remarketing Ads
+- Television Advertising
+- Web Design & Management
+
+RISE Media can offer a full service or complementary services to support the client's inhouse team, whether that be marketing, UX, development or a combination.
 
 <br>
 
