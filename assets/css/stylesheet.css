@@ -179,9 +179,16 @@ li {
     width: -webkit-fill-available;
 }
 
+.navbar-button-transform:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
+
 #menu .free-consultation:hover {
     background-color: #3a3a3a;
     color: white;
+    transform: translateY(-5px);
 }
 
 #menu .free-consultation {
