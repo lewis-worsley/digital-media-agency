@@ -15,6 +15,7 @@ The website is designed to attract higher seniority levels, those who have the a
 ## Planning & Development
 <hr>
 RISE Media has been established to help companies with their digital transformations by providing businesses the opportunitiy to integrate an outsourced digital media agency with their marketing, UX and web-development plans.<br>
+<br>
 
 RISE Media is focused on being customer-centric and helping organisations their objectives and goals.
 
@@ -23,8 +24,22 @@ RISE Media is focused on being customer-centric and helping organisations their 
 
 ### Site Objective
 <hr>
-As a B2B company, the site is geared towards catering for professionals who will be browsing the website during their day-to-day work activities.
+As a B2B company, the site is geared towards catering for professionals who will be browsing the website during their day-to-day work activities.<br><br>
 
+It's a services-orientated lead generation website, with the aim of converting as many visitors into leads, quality leads. Alternatively, users can call or email the company. <br><br>
+
+Prices are not shared online and services are not sold online due to the complex nature of delivering bespoke services, as RISE Media like to tailor their services, expertise and offer that will be of benefit to the customer. There is no one-size-fits-all. <br><br>
+
+In summary, the site is to:
+
+- show a brief, relevant intro message that is of relevance and value on the homepage, without the user needing to scroll to understand what type of business RISE Media is
+- communicate the brand's mission and vision
+- highlight the services available
+- provide easy navigation
+- showcase that the company is a global media agency
+- make it accessible for all users
+- provide company contact details on all pages
+- give users the ability to submit a form to express their interest in the free consultation offer
 
 <br>
 
@@ -211,9 +226,8 @@ The three websites used to validate the code are:
 
 For accessibility, the following websites and extensions were used:
 
-- https://wave.webaim.org/
 - WCAG Contrast Checker
-- LighthouseS
+- Lighthouse
 
 
 #### HTML Validator
@@ -221,7 +235,13 @@ For accessibility, the following websites and extensions were used:
 Errors discovered:<br>
 <img src="assets/readme-images/html-markup-check.jpg">
 <img src="assets/readme-images/html-markup-check-2.jpg">
-<img src="assets/readme-images/html-markup-check-3.jpg">
+<img src="assets/readme-images/html-markup-check-3.jpg"><br>
+
+<br>
+
+Additional error discovered after integrating the hamburger menu onto the navbar<br>
+
+<img src="assets/readme-images/html-markup-check-after-2.jpg">
 
 <br>
 
@@ -230,9 +250,12 @@ Errors fixed:<br>
 
 <br>
 
-- Whilst the remaining issues were able to be fixed, the warning still remains. In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
+- Whilst the remaining issues were able to be fixed (excluding the additional error), the warning still remains. In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
+
+Regarding the additional error reported (div not allowed as child of element...), the code for the hamburger performs as expected and in this case and in this context the hamburger menu behaves as expected, each links works and is responsive.
 
 <br>
+
 
 #### CSS Validator
 Website used to validate CSS code: https://jigsaw.w3.org/css-validator/
@@ -247,14 +270,6 @@ Errors fixed:<br>
 - The latest version of the CSS stylesheet reported no errors
 
 <br>
-
-#### WAVE (Web Accesssibility Evaluation Tool)
-<hr>
-Errors discovered: <br>
-<img src="assets/readme-images/wave.jpg">
-<img src="assets/readme-images/wave-details.jpg">
-
-Errors fixed: <br>
 
 #### WCAG Contrast Checker
 <hr>
@@ -328,9 +343,13 @@ To help bring this project to life, the following deserve recognition:
 ### Content
 <hr>
 
+- The CSS code to integrate the hamburger menu onto the navbar was provided by https://alvarotrigo.com/blog/hamburger-menu-css/#:~:text=What%20Is%20A%20Hamburger%20Menu,top%20of%20the%20main%20content > 1 Responsive CSS Hamburger Menu - CSS only
+
 - The 3-colour-gradient for the brand was provided by https://mycolor.space/
 
 - The CSS structure for the hero section was inspired by the Code Institute's Coders Coffeehouse
+
+- The background hero image of the office was found and saved via search on Google Images https://www.linkedin.com/company/goodstuff-communications. The company logo was removed and the RISE Media logo was inserted via Photoshop
 
 - The CSS code to achieve a gradient background was provided by https://www.w3schools.com/
 
