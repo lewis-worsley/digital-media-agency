@@ -106,13 +106,22 @@ To evaluate the website, the structure can be split into six sections:
 - The navigation supports the brand logo (which upon being clicked returns the user to the homepage) and brand colour (3 colour gradient)
 - Supporting the logo in the navigation bar, is links to About Us (aka, What We Do), Services (aka, Raise Your Game) and Free Consultation form
 - Responsive across desktop, tablet, and mobile, however the following links are hidden in the nav bar once certain parameters are met regarding width:
-    - 800px and less: About Us and Services links are hidden
-    - 500px and less: Free Consultation link is hidden and the logo is centered
+    - 799px and less: About Us, Services, and Free Consultation links are hidden are located in the hamburger menu
 - The site incorporates a sticky navigation bar to make it easy for users to navigate on the website
+- Hovering over the Free Consultation brings a little bit of interactivity by moving the button up on the Y axis
+- In the hamburger menu, all unique styling attributes that was applied before is removed and all links are given equal styling - this helps prevent the confusion for the user as only the link they're hovering over will change style
 
-For future development: a hamburger menu would be incorporated into the navigation bar once width hits 800px and less to show the hidden links.
-
-<img src="assets/readme-images/nav-bar.jpg">
+<strong>Normal state at 800px and greater</strong>
+<img src="assets/readme-images/nav-bar.jpg"><br>
+<br>
+<strong>Hover state at 800px and greater</strong>
+<img src="assets/readme-images/nav-bar-button.jpg"><br>
+<br>
+<strong>Hamburger state at 799px and less</strong>
+<img src="assets/readme-images/nav-bar-hamburger.jpg"><br>
+<br>
+<strong>Hamburger menu open</strong>
+<img src="assets/readme-images/nav-bar-hamburger-menu.jpg"><br>
 
 <br>
 
