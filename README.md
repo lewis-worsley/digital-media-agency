@@ -255,10 +255,7 @@ For future development: the footer is to include links to high-priorty pages and
 
 <img src="assets/readme-images/footer.jpg">
 
-
-
 <br>
-
 
 ## Testing
 <hr>
@@ -269,6 +266,50 @@ Throughout the design of the website, but more so after the structure and conten
 ### Testing on devices
 <hr>
 
+During development of the website, the code was written and tested on HP EliteBook 840 G5 14". 
+
+Google Dev-tools was used extensively throughout the process, as it provides instant feedback on appearence and responsivity across elements and dimensions.
+
+After development, the website has been tested on the following devices:
+
+- HP EliteBook 840 G5 14" - Chrome and Microsoft Edge
+- LG 21.5" monitor 
+- iPhone XS Max - Chrome and Safari
+- Fire (Amazon) HD 8" Tablet - 8th Generation - Amazon Silk
+
+<strong>HP EliteBook 840 G5 14" - using Google Device Toolbar</strong>
+<img src="assets/readme-images/google-device-toolbar.jpg">
+<br>
+<br>
+<strong>Fire HD 8" Tablet - 8th Generation</strong><br>
+<img src="assets/readme-images/amazon-fire-tablet.png">
+<br>
+<br>
+<strong>iPhone XS Max</strong><br>
+<img src="assets/readme-images/iphone-xs-max.png">
+<br>
+
+Noted for future development:
+
+- On hover, the navbar button performs as expected, but there is a tiny zone where it transforms, however it does not change color as expected. It's not a major issue, other than a tiny annoyance
+- On iPhone XS Max, Safari, the header colour doesn't cover all of the top, there is a small bit of white spacing left exposed
+- On mobile, when scrolling back to the top, because of the 'bounce' effect, some of the background image is exposed without a black transparent layer over it
+- On iPhone XS Max, Safari, it appears the submission button adopts a different style to the default one which is seen on desktop
+
+<br>
+
+### Testing links
+<hr>
+
+Results:
+
+- Each link on the navbar works as expected, including the hamburger menu
+- The hero section button performs as expected
+- The 'ABOUT US' section buttons perform as expected
+- The 'SERVICES' section buttons perform as expected, however, it must be noted that the links don't go anywhere. This is because the respective pages for those links have not been created. For future development, the links will work as expected once the pages are established and live
+- Each input on the form section works as expected and upon submission the form takes the user to https://formdump.codeinstitute.net/
+- The telephone and email links in the footer work as expected 
+- The social media icons in the footer work as expected
 
 <br>
 
@@ -280,12 +321,12 @@ The three websites used to validate the code are:
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
 
-
 For accessibility, the following websites and extensions were used:
 
 - WCAG Contrast Checker
 - Lighthouse
 
+<br>
 
 #### HTML Validator
 <hr>
@@ -296,8 +337,8 @@ Errors discovered:<br>
 
 <br>
 
-Additional error discovered after integrating the hamburger menu onto the navbar<br>
-
+Additional error discovered after integrating the hamburger menu onto the navbar
+<br>
 <img src="assets/readme-images/html-markup-check-after-2.jpg">
 
 <br>
@@ -312,7 +353,6 @@ Errors fixed:<br>
 Regarding the additional error reported (div not allowed as child of element...), the code for the hamburger performs as expected and in this case and in this context the hamburger menu behaves as expected, each links works and is responsive.
 
 <br>
-
 
 #### CSS Validator
 Website used to validate CSS code: https://jigsaw.w3.org/css-validator/
