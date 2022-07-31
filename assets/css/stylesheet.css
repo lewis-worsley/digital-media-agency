@@ -570,6 +570,7 @@ textarea {
     padding: 10px;
     border-bottom: 4px solid white;
     max-width: 600px;
+    min-width: 600px;
 }
 
 ::placeholder {
