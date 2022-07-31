@@ -8,10 +8,26 @@ Across the world, SMBs and enterprises are in the process of undergoing a digita
 ## Contents
 <hr>
 
+[Planning & Development](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#planning--development)
+
+[Features](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#features)
+
+[Testing](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#testing)
+
+[Deployment](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#deployment)
+
+[Languages](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#languages)
+
+[Software](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#software)
+
+[Media](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#media)
+
+[Credits](https://github.com/lewis-worsley/digital-media-agency/blob/main/README.md#credits)
+
 <br>
 
 ## Planning & Development
-<hr>
+<hr id="planning">
 RISE Media has been established to help companies with their digital transformations by providing businesses the opportunitiy to integrate an outsourced digital media agency with their marketing, UX and web-development plans.<br>
 <br>
 
@@ -36,7 +52,7 @@ In summary, the site is to:
 - provide easy navigation
 - showcase that the company is a global media agency
 - make it accessible for all users
-- provide company contact details on all pages
+- provide com#pany contact details on all pages
 - give users the ability to submit a form to express their interest in the free consultation offer
 
 <br>
@@ -53,7 +69,7 @@ Ideally, users visiting the website are professionals whom are employed by a com
 - Software Development Managers and higher
 - Owners, CEOs, CTOs, CFOs for startups are welcome
 
-Users with these professions will be interested in the services that RISE Media have to offer. In Summary, users who have an interest in the following services:
+Users with these professions will be interested in the services that RISE Media have to offer. In Summary, it is for users who have an interest in the following services:
 
 - Social Media Marketing
 - SEO & PPC Management
@@ -67,6 +83,21 @@ RISE Media can offer a full service or complementary services to support the cli
 
 ### Prototype
 <hr>
+The desktop and mobile prototypes for RISE Media were designed in 2021 using Adobe software. Not every feature seen in the prototype have been replicated on the current version of the website, such as case studies and international office locations etc.<br><br>
+
+Future development: the website would develop and publish the respective pages when appropriate, for example, when RISE Media have produced their first case study with a client. The service pages would be the next priority of development for RISE Media.
+<br>
+<br>
+<strong>Desktop Prototype</strong><br>
+
+<img src="assets/readme-images/prototype-desktop-1.jpg">
+<img src="assets/readme-images/prototype-desktop-2.jpg"><br>
+<br>
+<strong>Mobile Prototype</strong>
+<br>
+<img src="assets/readme-images/prototype-mobile-1.jpg">
+<img src="assets/readme-images/prototype-mobile-2.jpg">
+<img src="assets/readme-images/prototype-mobile-3.jpg">
 
 <br>
 
@@ -139,17 +170,18 @@ To evaluate the website, the structure can be split into six sections:
 - The site incorporates a sticky navigation bar to make it easy for users to navigate on the website
 - Hovering over the Free Consultation brings a little bit of interactivity by moving the button up on the Y axis
 - In the hamburger menu, all unique styling attributes that was applied before is removed and all links are given equal styling - this helps prevent the confusion for the user as only the link they're hovering over will change style
+- In the hamburger menu, the last list element, in this case 'FREE CONSULTATION', sports a box-shadow to add depth, which helps to seperate the navbar from the page contents
 
-<strong>Normal state at 800px and greater</strong>
+<strong>Normal state at 800px and greater</strong><br>
 <img src="assets/readme-images/nav-bar.jpg"><br>
 <br>
-<strong>Hover state at 800px and greater</strong>
+<strong>Hover state at 800px and greater</strong><br>
 <img src="assets/readme-images/nav-bar-button.jpg"><br>
 <br>
-<strong>Hamburger state at 799px and less</strong>
+<strong>Hamburger state at 799px and less</strong><br>
 <img src="assets/readme-images/nav-bar-hamburger.jpg"><br>
 <br>
-<strong>Hamburger menu open</strong>
+<strong>Hamburger menu open</strong><br>
 <img src="assets/readme-images/nav-bar-hamburger-menu.jpg"><br>
 
 <br>
