@@ -31,21 +31,21 @@ Across the world, SMBs and enterprises are in the process of undergoing a digita
 
 ## Planning & Development
 <hr>
-RISE Media has been established to help companies with their digital transformations by providing businesses the opportunitiy to integrate an outsourced digital media agency with their marketing, UX and web-development plans.<br>
+RISE Media has been established to help companies with their digital transformations by providing businesses the opportunitiy to integrate an outsourced digital media agency with their marketing, UX and web-development plans.
+
 <br>
 
 RISE Media is focused on being customer-centric and helping organisations their objectives and goals.
 
 <br>
 
-
 ### Site Objective
 <hr>
-As a B2B company, the site is geared towards catering for professionals who will be browsing the website during their day-to-day work activities.<br><br>
+As a B2B company, the site is geared towards catering for professionals who will be browsing the website during their day-to-day work activities. It's a services-orientated lead generation website, with the aim of converting as many visitors into leads, quality leads. Alternatively, users can call or email the company.
 
-It's a services-orientated lead generation website, with the aim of converting as many visitors into leads, quality leads. Alternatively, users can call or email the company. <br><br>
+<br>
 
-Prices are not shared online and services are not sold online due to the complex nature of delivering bespoke services, as RISE Media like to tailor their services, expertise and offer that will be of benefit to the customer. There is no one-size-fits-all. <br><br>
+Prices are not shared online and services are not sold online due to the complex nature of delivering bespoke services, as RISE Media like to tailor their services, expertise and offer that will be of benefit to the customer. There is no one-size-fits-all.<br>
 
 In summary, the site is to:
 
@@ -263,6 +263,14 @@ Throughout the design of the website, but more so after the structure and conten
 
 <br>
 
+### Am I Responsive
+<hr>
+
+To check to see if the website was responsive across different types of devices, the URL was entered into https://ui.dev/amiresponsive/. The website it appeared as expected across each device. The image snippet in the intro section of this README.md is provided by https://ui.dev/amiresponsive/
+
+
+<br>
+
 ### Testing on devices
 <hr>
 
@@ -277,7 +285,7 @@ After development, the website has been tested on the following devices:
 - iPhone XS Max - Chrome and Safari
 - Fire (Amazon) HD 8" Tablet - 8th Generation - Amazon Silk
 
-<strong>HP EliteBook 840 G5 14" - using Google Device Toolbar</strong>
+<strong>HP EliteBook 840 G5 14" - using Google Device Toolbar</strong><br>
 <img src="assets/readme-images/google-device-toolbar.jpg">
 <br>
 <br>
@@ -337,7 +345,7 @@ Errors discovered:<br>
 
 <br>
 
-Additional error discovered after integrating the hamburger menu onto the navbar
+Additional error discovered after integrating the hamburger menu onto the navbar:
 <br>
 <img src="assets/readme-images/html-markup-check-after-2.jpg">
 
@@ -393,9 +401,11 @@ Lighthouse has reported extemely positive metrics (see graphic below) with score
 - Best practises: 100
 - SEO: 90
 
-<img src="assets/readme-images/lighthouse-scores.jpg"><br>
+<img src="assets/readme-images/lighthouse-scores.jpg">
+<br>
+<br>
 
-## Deployments
+## Deployment
 <hr>
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 
@@ -403,6 +413,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Main Branch
 - Once the master branch has been selected, the page will be automatically refreshed with the word 'active' displayed in a green colour at the end of the sentence (next to last duration when published)
 The live link can be found here - https://lewis-worsley.github.io/digital-media-agency/
+
+<br>
 
 ## Languages
 <hr>
@@ -428,6 +440,9 @@ Through using these three tools, I was able to design the logo, create imagery, 
 ## Media
 <hr>
 The logo and icons for RISE Media was designed by myself, Lewis Worsley.
+<br><br>
+
+The background hero image of the office was found and saved via search on Google Images: https://www.linkedin.com/company/goodstuff-communications/. The original company logo was removed and replaced with the RISE Media logo via Adobe Photoshop.
 
 <br>
 
@@ -447,8 +462,6 @@ The CSS code to transform the navbar button on hover was provided by https://dev
 - The 3-colour-gradient for the brand was provided by https://mycolor.space/
 
 - The CSS structure for the hero section was inspired by the Code Institute's Coders Coffeehouse
-
-- The background hero image of the office was found and saved via search on Google Images https://www.linkedin.com/company/goodstuff-communications. The company logo was removed and the RISE Media logo was inserted via Photoshop
 
 - The CSS code to achieve a gradient background was provided by https://www.w3schools.com/
 
