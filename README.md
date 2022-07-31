@@ -2,6 +2,9 @@
 RISE media is a global digital media agency with offices in London, New York, Sydney & Toronto. 
 
 Across the world, SMBs and enterprises are in the process of undergoing a digital transformation, primarily driven by Covid-19. With the ability to 'work from anywhere', businesses are looking for innovative strategies that help their brand grow by connecting with their customers on a human and emotional level.
+<br><br>
+
+<img src="assets/readme-images/am-i-responsive.jpg">
 
 <br>
 
@@ -27,7 +30,7 @@ Across the world, SMBs and enterprises are in the process of undergoing a digita
 <br>
 
 ## Planning & Development
-<hr id="planning">
+<hr>
 RISE Media has been established to help companies with their digital transformations by providing businesses the opportunitiy to integrate an outsourced digital media agency with their marketing, UX and web-development plans.<br>
 <br>
 
@@ -261,6 +264,14 @@ For future development: the footer is to include links to high-priorty pages and
 <hr>
 Throughout the design of the website, but more so after the structure and contents of the page was added, Google Dev-tools was used extensively to validate new ideas, fix errors, unearth solutions, and ensure consistency with the design and user experience across various devices by ensuring the website was responsive.
 
+<br>
+
+### Testing on devices
+<hr>
+
+
+<br>
+
 ### Validator Testing
 <hr>
 
@@ -388,6 +399,8 @@ To help bring this project to life, the following deserve recognition:
 
 ### Content
 <hr>
+
+The CSS code to transform the navbar button on hover was provided by https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY
 
 - The CSS code to integrate the hamburger menu onto the navbar was provided by https://alvarotrigo.com/blog/hamburger-menu-css/#:~:text=What%20Is%20A%20Hamburger%20Menu,top%20of%20the%20main%20content > 1 Responsive CSS Hamburger Menu - CSS only
 
