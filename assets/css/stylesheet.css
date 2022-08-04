@@ -204,8 +204,6 @@ li {
     color: #3a3a3a;
 }
 
-
-
 #navbar {
     overflow: hidden;
 }
@@ -282,14 +280,12 @@ h1 {
     letter-spacing: 2px;
     text-transform: uppercase;
     font-weight: bold;
-
 }
 
 .blue-button:hover,
 .burgundy-button:hover {
     background-color: #3a3a3a;
     color: white;
-    
 }
 
 .about-us-buttons {
@@ -353,12 +349,9 @@ h1 {
 .founder-job-title {
     margin-top: -15px;
     margin-bottom: 25px;
-
 }
 
 /* Services aka RAISE YOUR GAME section */
-
-
 
 .purple-h2 {
     color: #531c44;
@@ -387,7 +380,6 @@ hr {
 .row-services-width a:hover {
     background-color: #3a3a3a;
 }
-
 
 /* Social Media Marketing */
 
@@ -459,7 +451,6 @@ hr {
 
 /* Web Design */
 
-
 .web-block h3 {
     color: #003551;
 }
@@ -471,8 +462,6 @@ hr {
 .web-block a {
     background-color: #003551;
 }
-
-
 
 .smm-block a,
 .seo-block a,
@@ -505,9 +494,6 @@ hr {
     font-size: 1rem
 }
 
-
-
-
 /* FREE CONSULATION section */
 
 form {
@@ -522,11 +508,9 @@ form {
     color: white;
 }
 
-
 .form-paragraph {
     width: 100%;
 }
-
 
 input {
     margin: 15px 20px;
@@ -639,7 +623,6 @@ i {
         padding: 10px 10% 20px;
     }
 
-
     .tv-block {
         margin-bottom: 150px;
     }
@@ -647,6 +630,7 @@ i {
     .web-block {
         margin: 0 auto;
     }
+
 }
 
 @media screen and (max-width: 1200px) {
@@ -690,7 +674,6 @@ i {
 
     /* code to remove founder image and changed .col-three-quarters to 100% width */
 
-
     .col-quarter-quote {
         display: none;
     }
@@ -699,13 +682,13 @@ i {
     .col-three-quarters-quote {
         width: 100%;
     }
+
 }
 
 @media screen and (max-width: 1180px) {
 
     .rise-logo-quote {
         margin: 34px;
-
 
     }
 }
@@ -720,11 +703,7 @@ i {
         padding: 10px 10% 20px;
     }
 
-
-
 }
-
-/* 900px */
 
 @media screen and (max-width: 900px) {
 
@@ -797,13 +776,9 @@ i {
         
     }
 
-
-
 }
 
 @media screen and (max-width: 690px) {
-
-
 
     #cover-text button {
         margin: 50px 6% 75px;
@@ -878,8 +853,7 @@ i {
 
     #cover-text a {
         font-size: 1.3rem;
-
-}
+    }
 
 }
 
@@ -902,8 +876,6 @@ i {
     #cover-text p {
         font-size: calc(14px + 1.5vw);
     }
-
-    
 
     .hero-button {
         margin: 60px 0 90px;
@@ -956,8 +928,6 @@ i {
             justify-items: center;
             margin-top: 0px;
         }
-
-        
     
 }
 
@@ -966,7 +936,6 @@ i {
     #cover-text a {
         margin: 0;
     }
-
 
 }
 
@@ -1047,6 +1016,7 @@ i {
     .menu-button-container {
       display: flex;
     }
+
     .menu {
       position: absolute;
       top: 0;
@@ -1057,6 +1027,7 @@ i {
       justify-content: center;
       align-items: center;
     }
+
     #menu-toggle ~ .menu li {
       height: 0;
       margin: 0;
@@ -1064,6 +1035,7 @@ i {
       border: 0;
       transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     }
+
     #menu-toggle:checked ~ .menu li {
       border: 1px solid #3a3a3a;
       height: 2.5em;
@@ -1079,7 +1051,9 @@ i {
       color: white;
       background-color: #212121;
     }
+
     .menu > li:not(:last-child) {
       border-bottom: 1px solid #3a3a3a;
     }
+
   }
