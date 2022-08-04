@@ -356,9 +356,7 @@ Errors fixed:<br>
 
 <br>
 
-- Whilst the remaining issues were able to be fixed (excluding the additional error), the warning still remains. In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
-
-Regarding the additional error reported (div not allowed as child of element...), the code for the hamburger performs as expected and in this case and in this context the hamburger menu behaves as expected, each links works and is responsive.
+- Whilst the errors - including the additional error regarding the hamburger menu - were able to be fixed, the warning still remains. In this instance, the quote section does not need no heading elements due to no hierarchy of importance. It is a standalone section which conveys only one message: the Founder's thoughts.
 
 <br>
 
